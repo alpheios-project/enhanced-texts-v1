@@ -1,58 +1,0 @@
-8
-
-dir
-2572
-https://alpheios.svn.sourceforge.net/svnroot/alpheios/prototypes/aligned_texts/trunk/xhtml
-https://alpheios.svn.sourceforge.net/svnroot/alpheios
-
-
-
-2010-02-12T19:47:24.337830Z
-2572
-BridgetAlmas
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-6cdfca17-2474-42dc-bd0f-2d6b4f5baa86
-
-Perseus.text.1999.01.0021
-dir
-
-Perseus.text.1999.01.0133
-dir
-
-css
-dir
-
-Perseus.text.1999.01.0135
-dir
-
-site_menus
-dir
-
-Alpheios.text.Aesop.01
-dir
-
-img
-dir
-
-js
-dir
-
-Alpheios.text.SampleGraded.1
-dir
-
-Perseus.text.1999.02.0066
-dir
-
