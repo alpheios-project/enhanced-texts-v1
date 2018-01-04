@@ -1,0 +1,280 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:html="http://www.w3.org/1999/xhtml" xml:lang="greek">
+   <!--THIS IS A GENERATED FILE. DO NOT EDIT (2)-->
+   <head>
+      <title>Alpheios:Apollodorus, Library and Epitome
+         (1.7.2)
+         
+         - Deucalion and Pyrrha and the Flood 
+      </title>
+      <meta name="author" content="Apollodorus"></meta>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"></meta>
+      <meta name="DC.Title" content="Alpheios:Apollodorus, Library and Epitome&#xA;                        (1.7.2)&#xA;                    &#xA;                        - Deucalion and Pyrrha and the Flood "></meta>
+      <meta name="DC.Type" content="Text"></meta>
+      <meta name="DC.Format" content="application/xhtml+xml"></meta>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <meta name="alpheios-pedagogical-text" content="true"></meta>
+      <meta name="alpheios-treebank-url" content="http://repos.alpheios.net:8080/exist/rest/db/xq/treebank-getmorph.xq?f=1999.01.0021&amp;w=WORD"></meta>
+      <meta name="alpheios-treebank-diagram-url" content="version=1.0;http://repos.alpheios.net:8080/exist/rest/db/app/treebank-editsentence.xhtml?doc=1999.01.0021&amp;app=viewer&amp;id=SENTENCE&amp;w=WORD"></meta>
+      <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link rel="stylesheet" type="text/css" href="http://alpheios.net/alpheios-texts/site_menus/css/superfish.css"></link>
+      <link rel="shortcut icon" type="image/x-icon" href="http://alpheios.net/alpheios-texts/img/alpheios_16.png"></link><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/hoverIntent.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/superfish.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/js/alpheios-text.js"></script><script type="text/javascript">               
+                // document ready function
+                $(function(){
+                    alpheios_ready()
+                });                
+            </script></head>
+   <body id="TOP" onload="check_for_alpheios();">
+      <!--Start Alpheios Header-->
+      <div class="alpheios-ignore">
+         <div id="alph-page-header">
+            <div class="alpheios-version-text"><a href="http://alpheios.net/content/release-notes" title="View Release Notes" target="_blank"></a></div><a class="alpheios-logo" href="http://alpheios.net" alt="Alpheios"><img src="http://alpheios.net/alpheios-texts/img/alpheios.png"></img></a></div>
+         <div id="alph-toolbar" class="alpheios-toolbar">
+            <div id="alph-toolbar-main">
+               <ul class="sf-menu">
+                  <li class="current alpheios-toolbar-level-label"><a href="#">Mode</a></li>
+                  <li class="current alpheios-toolbar-level learner" alpheios-value="learner"><a href="#"><img src="http://alpheios.net/alpheios-texts/img/readinglearning_centerline.gif"></img></a></li>
+                  <li class="current alpheios-toolbar-level reader" alpheios-value="reader"><a href="#">&nbsp;</a></li>
+                  <li class="current alpheios-toolbar-translation"><a href="#">Translation</a></li>
+                  <li class="current alpheios-toolbar-inflect"><a href="#">Inflection<br></br>Tables</a></li>
+                  <li class="current alpheios-toolbar-grammar"><a href="#">Grammar</a></li>
+                  <li class="current alpheios-toolbar-usertools"><a href="#">User Tools</a><ul>
+                        <li class="current alpheios-toolbar-user-diagram"><a href="#">My Diagrams</a></li>
+                        <li class="current alpheios-toolbar-vocab"><a href="#">My Vocabulary</a></li>
+                     </ul>
+                  </li>
+                  <li class="current alpheios-toolbar-options"><a href="#">Options</a></li>
+                  <li class="current alpheios-toolbar-help-menu"><a href="#">Help</a><ul>
+                        <li class="current alpheios-toolbar-help"><a href="#">User Guide</a></li>
+                        <li class="current alpheios-toolbar-feedback"><a href="#">Send Feedback</a></li>
+                        <li class="current alpheios-toolbar-about"><a href="#">About</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="alpheios-trigger-hint alpheios-hint"></div>
+         <div id="alpheios-current-level"><span alpheios-value="reader">Reading Mode</span><span alpheios-value="learner">Quiz Mode</span></div>
+         <ul id="alpheios-install-links">
+            <caption>Please install or update the following Firefox Extensions required for optimal use of this site:</caption>
+         </ul><br clear="all"></br><div id="header">
+            <div id="header_text">
+               <h1><span class="author">Apollodorus, </span><span class="title">Library and Epitome<span class="sectionid"> (1.7.2)</span><span class="subtitle"> - Deucalion and Pyrrha and the Flood</span></span><a id="alph-citation-links" href="#citation" title="Citation"><img id="alph-citation-icon" src="http://alpheios.net/alpheios-texts/img/citation_static.gif" alt="Citation"></img></a></h1>
+            </div>
+         </div><br></br><div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interlinear-toggle">Show Interlinear Translation</label></div>
+      </div>
+      <!--End Alpheios Header-->
+      <div class="card" id="book1_card1.7.2">
+         <h2 class="institution"></h2>
+         <h2 class="department"></h2>
+         <div id="alph-trans-url" url="http://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/align/book1_card1.7.2.html"></div>
+                 
+         <p>
+                      <span class="alpheios-aligned-word" id="s98_w1" nrefs="s98_w2" tbref="23-1">&#928;&#961;&#959;&#956;&#951;&#952;&#941;&#969;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s98_w2" nrefs="s98_w1" tbref="23-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s98_w3" nrefs="s98_w4 s98_w5" tbref="23-3">&#960;&#945;&#8150;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s98_w4" nrefs="s98_w6" tbref="23-4">&#916;&#949;&#965;&#954;&#945;&#955;&#943;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s98_w5" nrefs="s98_w3" tbref="23-5">&#7952;&#947;&#941;&#957;&#949;&#964;&#959;</span>. <span class="alpheios-aligned-word" id="s99_w1" nrefs="s99_w1" tbref="24-1">&#959;&#8023;&#964;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s99_w2" nrefs="s99_w2" tbref="24-2">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w3" nrefs="s99_w3 s99_w4 s99_w5" tbref="24-3">&#964;&#8182;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w4" nrefs="s99_w6" tbref="24-4">&#960;&#949;&#961;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s99_w5" nrefs="s99_w7" tbref="24-5">&#964;&#8052;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w6" nrefs="s99_w7" tbref="24-6">&#934;&#952;&#943;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w7" nrefs="s99_w3 s99_w4 s99_w5" tbref="24-7">&#964;&#972;&#960;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w8" nrefs="s99_w9" tbref="24-8">&#947;&#945;&#956;&#949;&#8150;</span>
+                      <span class="alpheios-aligned-word" id="s99_w9" nrefs="s99_w10" tbref="24-9">&#928;&#973;&#961;&#961;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w10" nrefs="s99_w12 s99_w13" tbref="24-10">&#964;&#8052;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w11" nrefs="s99_w14 s99_w15" tbref="24-11">&#7960;&#960;&#953;&#956;&#951;&#952;&#941;&#969;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s99_w12" nrefs="s99_w16" tbref="24-12">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s99_w13" nrefs="s99_w17" tbref="24-13">&#928;&#945;&#957;&#948;&#974;&#961;&#945;&#962;</span>, <span class="alpheios-aligned-word" id="s99_w15" nrefs="s99_w19" tbref="24-15">&#7971;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w16" nrefs="s99_w22" tbref="24-16">&#7956;&#960;&#955;&#945;&#963;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w17" nrefs="s99_w23 s99_w24 s99_w25" tbref="24-17">&#952;&#949;&#959;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s99_w18" nrefs="s99_w20" tbref="24-18">&#960;&#961;&#974;&#964;&#951;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s99_w19" nrefs="s99_w21" tbref="24-19">&#947;&#965;&#957;&#945;&#8150;&#954;&#945;</span>. <span class="alpheios-aligned-word" id="s100_w1" nrefs="s100_w2" tbref="25-1">&#7952;&#960;&#949;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s100_w2" nrefs="s100_w1" tbref="25-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s100_w3" nrefs="s100_w5" tbref="25-3">&#7936;&#966;&#945;&#957;&#943;&#963;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s100_w4" nrefs="s100_w3" tbref="25-4">&#918;&#949;&#8058;&#962;</span>
+                      <span id="toc-pb-d0e1317"></span>
+                      <span class="alpheios-aligned-word" id="s100_w5" nrefs="s100_w6 s100_w7" tbref="25-5">&#964;&#8056;</span>
+                      <span class="alpheios-aligned-word" id="s100_w6" nrefs="s100_w10" tbref="25-6">&#967;&#945;&#955;&#954;&#959;&#8166;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w7" nrefs="s100_w4" tbref="25-7">&#7968;&#952;&#941;&#955;&#951;&#963;&#949;</span>
+                      <span class="alpheios-aligned-word" id="s100_w8" nrefs="s100_w6 s100_w7" tbref="25-8">&#947;&#941;&#957;&#959;&#962;</span>, <span class="alpheios-aligned-word" id="s100_w10" nrefs="s100_w14 s100_w15 s100_w16" tbref="25-10">&#8017;&#960;&#959;&#952;&#949;&#956;&#941;&#957;&#959;&#965;</span>
+                      <span class="alpheios-aligned-word" id="s100_w11" nrefs="s100_w17 s100_w18" tbref="25-11">&#928;&#961;&#959;&#956;&#951;&#952;&#941;&#969;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w12" nrefs="s100_w13" tbref="25-12">&#916;&#949;&#965;&#954;&#945;&#955;&#943;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w13" nrefs="s100_w19" tbref="25-13">&#964;&#949;&#954;&#964;&#951;&#957;&#940;&#956;&#949;&#957;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w14" nrefs="s100_w20 s100_w21" tbref="25-14">&#955;&#940;&#961;&#957;&#945;&#954;&#945;</span>, <span class="alpheios-aligned-word" id="s100_w16" nrefs="s100_w23" tbref="25-16">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s100_w17" nrefs="s100_w28" tbref="25-17">&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s100_w18" nrefs="s100_w28" tbref="25-18">&#7952;&#960;&#953;&#964;&#942;&#948;&#949;&#953;&#945;</span>
+                      <span class="alpheios-aligned-word" id="s100_w19" nrefs="s100_w24 s100_w25" tbref="25-19">&#7952;&#957;&#952;&#941;&#956;&#949;&#957;&#959;&#962;</span>, <span class="alpheios-aligned-word" id="s100_w21" nrefs="s100_w31" tbref="25-21">&#949;&#7984;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w22" nrefs="s100_w32" tbref="25-22">&#964;&#945;&#973;&#964;&#951;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w23" nrefs="s100_w33" tbref="25-23">&#956;&#949;&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s100_w24" nrefs="s100_w34" tbref="25-24">&#928;&#973;&#961;&#961;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w25" nrefs="s100_w29 s100_w30" tbref="25-25">&#949;&#7984;&#963;&#941;&#946;&#951;</span>.<span class="alpheios-aligned-word" id="s100_w27" nrefs="s100_w37" tbref="26-1">&#918;&#949;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w28" nrefs="s100_w36" tbref="26-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s100_w29" nrefs="s100_w40 s100_w41" tbref="26-3">&#960;&#959;&#955;&#8058;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w30" nrefs="s100_w40 s100_w41" tbref="26-4">&#8017;&#949;&#964;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w31" nrefs="s100_w42" tbref="26-5">&#7936;&#960;&#8125;</span>
+                      <span class="alpheios-aligned-word" id="s100_w32" nrefs="s100_w43" tbref="26-6">&#959;&#8016;&#961;&#945;&#957;&#959;&#8166;</span>
+                      <span class="alpheios-aligned-word" id="s100_w33" nrefs="s100_w39" tbref="26-7">&#967;&#941;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w34" nrefs="s100_w45 s100_w46 s100_w47" tbref="26-8">&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s100_w35" nrefs="s100_w45 s100_w46 s100_w47" tbref="26-9">&#960;&#955;&#949;&#8150;&#963;&#964;&#945;</span>
+                      <span class="alpheios-aligned-word" id="s100_w36" nrefs="s100_w45 s100_w46 s100_w47" tbref="26-10">&#956;&#941;&#961;&#951;</span>
+                      <span class="alpheios-aligned-word" id="s100_w37" nrefs="s100_w48" tbref="26-11">&#964;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w38" nrefs="s100_w49" tbref="26-12">&#7961;&#955;&#955;&#940;&#948;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w39" nrefs="s100_w44" tbref="26-13">&#954;&#945;&#964;&#941;&#954;&#955;&#965;&#963;&#949;&#957;</span>, <span class="alpheios-aligned-word" id="s100_w41" nrefs="s100_w51 s100_w52" tbref="26-15">&#8037;&#963;&#964;&#949;</span>
+                      <span class="alpheios-aligned-word" id="s100_w42" nrefs="s100_w55 s100_w56" tbref="26-16">&#948;&#953;&#945;&#966;&#952;&#945;&#961;&#8134;&#957;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s100_w43" nrefs="s100_w53" tbref="26-17">&#960;&#940;&#957;&#964;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w44" nrefs="s100_w54" tbref="26-18">&#7936;&#957;&#952;&#961;&#974;&#960;&#959;&#965;&#962;</span>, <span class="alpheios-aligned-word" id="s100_w46" nrefs="s100_w59 s100_w60" tbref="26-20">&#8000;&#955;&#943;&#947;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w47" nrefs="s100_w58" tbref="26-21">&#967;&#969;&#961;&#8054;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w48" nrefs="s100_w61" tbref="26-22">&#959;&#7987;</span>
+                      <span class="alpheios-aligned-word" id="s100_w49" nrefs="s100_w62" tbref="26-23">&#963;&#965;&#957;&#941;&#966;&#965;&#947;&#959;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w50" nrefs="s100_w63" tbref="26-24">&#949;&#7984;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s100_w51" nrefs="s100_w64" tbref="26-25">&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s100_w52" nrefs="s100_w67 s100_w68 s100_w69" tbref="26-26">&#960;&#955;&#951;&#963;&#943;&#959;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s100_w53" nrefs="s100_w65" tbref="26-27">&#8017;&#968;&#951;&#955;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s100_w54" nrefs="s100_w66" tbref="26-28">&#8004;&#961;&#951;</span>. <span class="alpheios-aligned-word" id="s101_w1" nrefs="s101_w3" tbref="27-1">&#964;&#972;&#964;&#949;</span>
+                      <span class="alpheios-aligned-word" id="s101_w2" nrefs="" tbref="27-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s101_w3" nrefs="" tbref="27-3">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s101_w4" nrefs="s101_w5 s101_w6" tbref="27-4">&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s101_w5" nrefs="s101_w7" tbref="27-5">&#954;&#945;&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s101_w6" nrefs="s101_w8" tbref="27-6">&#920;&#949;&#963;&#963;&#945;&#955;&#943;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s101_w7" nrefs="s101_w5 s101_w6" tbref="27-7">&#8004;&#961;&#951;</span>
+                      <span class="alpheios-aligned-word" id="s101_w8" nrefs="s101_w9" tbref="27-8">&#948;&#953;&#941;&#963;&#964;&#951;</span>, <span class="alpheios-aligned-word" id="s101_w10" nrefs="s101_w11" tbref="27-10">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s101_w11" nrefs="s101_w13 s101_w14 s101_w15" tbref="27-11">&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s101_w12" nrefs="s101_w16" tbref="27-12">&#7952;&#954;&#964;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s101_w13" nrefs="s101_w17 s101_w18" tbref="27-13">&#7992;&#963;&#952;&#956;&#959;&#8166;</span>
+                      <span class="alpheios-aligned-word" id="s101_w14" nrefs="s101_w19" tbref="27-14">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s101_w15" nrefs="s101_w20" tbref="27-15">&#928;&#949;&#955;&#959;&#960;&#959;&#957;&#957;&#942;&#963;&#959;&#965;</span>
+                      <span class="alpheios-aligned-word" id="s101_w16" nrefs="s101_w21 s101_w22" tbref="27-16">&#963;&#965;&#957;&#949;&#967;&#941;&#952;&#951;</span>
+                      <span class="alpheios-aligned-word" id="s101_w17" nrefs="s101_w13 s101_w14 s101_w15" tbref="27-17">&#960;&#940;&#957;&#964;&#945;</span>. <span class="alpheios-aligned-word" id="s102_w1" nrefs="s102_w2" tbref="28-1">&#916;&#949;&#965;&#954;&#945;&#955;&#943;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w2" nrefs="s102_w1" tbref="28-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s102_w3" nrefs="s102_w5" tbref="28-3">&#7952;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w4" nrefs="s102_w6" tbref="28-4">&#964;&#8135;</span>
+                      <span class="alpheios-aligned-word" id="s102_w5" nrefs="s102_w7" tbref="28-5">&#955;&#940;&#961;&#957;&#945;&#954;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s102_w6" nrefs="s102_w8" tbref="28-6">&#948;&#953;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s102_w7" nrefs="s102_w9" tbref="28-7">&#964;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w8" nrefs="s102_w10" tbref="28-8">&#952;&#945;&#955;&#940;&#963;&#963;&#951;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w9" nrefs="s102_w4" tbref="28-9">&#966;&#949;&#961;&#972;&#956;&#949;&#957;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w10" nrefs="s102_w11" tbref="28-10">&lt;&#7952;&#966;&#8125;&gt;</span>
+                      <span class="alpheios-aligned-word" id="s102_w11" nrefs="s102_w13" tbref="28-11">&#7969;&#956;&#941;&#961;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w12" nrefs="s102_w12" tbref="28-12">&#7952;&#957;&#957;&#941;&#945;</span>
+                      <span class="alpheios-aligned-word" id="s102_w13" nrefs="s102_w14" tbref="28-13">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s102_w14" nrefs="s102_w17" tbref="28-14">&#957;&#973;&#954;&#964;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w15" nrefs="s102_w15 s102_w16" tbref="28-15">&lt;&#964;&#8048;&#962;&gt;</span>
+                      <span class="alpheios-aligned-word" id="s102_w16" nrefs="s102_w15 s102_w16" tbref="28-16">&#7988;&#963;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w17" nrefs="s102_w20 s102_w21" tbref="28-17">&#964;&#8183;</span>
+                      <span class="alpheios-aligned-word" id="s102_w18" nrefs="s102_w20 s102_w21" tbref="28-18">&#928;&#945;&#961;&#957;&#945;&#963;&#8183;</span>
+                      <span class="alpheios-aligned-word" id="s102_w19" nrefs="s102_w19" tbref="28-19">&#960;&#961;&#959;&#963;&#943;&#963;&#967;&#949;&#953;</span>, <span class="alpheios-aligned-word" id="s102_w21" nrefs="s102_w23 s102_w24" tbref="28-21">&#954;&#7936;&#954;&#949;&#8150;</span>
+                      <span class="alpheios-aligned-word" id="s102_w22" nrefs="s102_w27" tbref="28-22">&#964;&#8182;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w23" nrefs="s102_w28" tbref="28-23">&#8004;&#956;&#946;&#961;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w24" nrefs="s102_w29" tbref="28-24">&#960;&#945;&#8166;&#955;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w25" nrefs="s102_w29" tbref="28-25">&#955;&#945;&#946;&#972;&#957;&#964;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w26" nrefs="s102_w31 s102_w32" tbref="28-26">&#7952;&#954;&#946;&#8048;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w27" nrefs="s102_w34" tbref="28-27">&#952;&#973;&#949;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s102_w28" nrefs="s102_w35 s102_w36" tbref="28-28">&#916;&#953;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s102_w29" nrefs="s102_w38 s102_w39 s102_w40 s102_w41" tbref="28-29">&#966;&#965;&#958;&#943;&#8179;</span>. <span class="alpheios-aligned-word" id="s102_w31" nrefs="s102_w44" tbref="29-1">&#918;&#949;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w32" nrefs="s102_w43" tbref="29-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s102_w33" nrefs="s102_w45" tbref="29-3">&#960;&#941;&#956;&#968;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w34" nrefs="s102_w46" tbref="29-4">&#7961;&#961;&#956;&#8134;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w35" nrefs="s102_w47" tbref="29-5">&#960;&#961;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w36" nrefs="s102_w48" tbref="29-6">&#945;&#8016;&#964;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w37" nrefs="s102_w50 s102_w51" tbref="29-7">&#7952;&#960;&#941;&#964;&#961;&#949;&#968;&#949;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s102_w38" nrefs="s102_w52 s102_w53" tbref="29-8">&#945;&#7985;&#961;&#949;&#8150;&#963;&#952;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s102_w39" nrefs="s102_w54" tbref="29-9">&#8005;</span>
+                      <span class="alpheios-aligned-word" id="s102_w40" nrefs="s102_w54" tbref="29-10">&#964;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s102_w41" nrefs="s102_w55 s102_w56" tbref="29-11">&#946;&#959;&#973;&#955;&#949;&#964;&#945;&#953;</span>: <span class="alpheios-aligned-word" id="s102_w43" nrefs="s102_w59" tbref="30-1">&#8001;</span>
+                      <span class="alpheios-aligned-word" id="s102_w44" nrefs="s102_w58" tbref="30-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s102_w45" nrefs="s102_w60" tbref="30-3">&#945;&#7985;&#961;&#949;&#8150;&#964;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s102_w46" nrefs="s102_w63" tbref="30-4">&#7936;&#957;&#952;&#961;&#974;&#960;&#959;&#965;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s102_w47" nrefs="" tbref="30-5">&#945;&#8016;&#964;&#8183;</span>
+                      <span class="alpheios-aligned-word" id="s102_w48" nrefs="s102_w61 s102_w62" tbref="30-6">&#947;&#949;&#957;&#941;&#963;&#952;&#945;&#953;</span>. <span class="alpheios-aligned-word" id="s103_w1" nrefs="s103_w1" tbref="31-1">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s103_w2" nrefs="s103_w5 s103_w6" tbref="31-2">&#916;&#953;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w3" nrefs="s103_w2 s103_w3 s103_w4" tbref="31-3">&#949;&#7984;&#960;&#972;&#957;&#964;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w4" nrefs="s103_w14" tbref="31-4">&#8017;&#960;&#8050;&#961;</span>
+                      <span class="alpheios-aligned-word" id="s103_w5" nrefs="s103_w15 s103_w16" tbref="31-5">&#954;&#949;&#966;&#945;&#955;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w6" nrefs="s103_w12" tbref="31-6">&#7956;&#946;&#945;&#955;&#955;&#949;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s103_w7" nrefs="s103_w7 s103_w8 s103_w9" tbref="31-7">&#945;&#7988;&#961;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s103_w8" nrefs="s103_w10" tbref="31-8">&#955;&#943;&#952;&#959;&#965;&#962;</span>, <span class="alpheios-aligned-word" id="s103_w10" nrefs="s103_w18" tbref="31-10">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s103_w11" nrefs="s103_w21" tbref="31-11">&#959;&#8019;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w12" nrefs="" tbref="31-12">&#956;&#8050;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s103_w13" nrefs="s103_w23" tbref="31-13">&#7956;&#946;&#945;&#955;&#949;</span>
+                      <span class="alpheios-aligned-word" id="s103_w14" nrefs="s103_w22" tbref="31-14">&#916;&#949;&#965;&#954;&#945;&#955;&#943;&#969;&#957;</span>, <span class="alpheios-aligned-word" id="s103_w16" nrefs="s103_w25" tbref="31-16">&#7940;&#957;&#948;&#961;&#949;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w17" nrefs="s103_w24" tbref="31-17">&#7952;&#947;&#941;&#957;&#959;&#957;&#964;&#959;</span>, <span class="alpheios-aligned-word" id="s103_w19" nrefs="s103_w30" tbref="31-19">&#959;&#8019;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s103_w20" nrefs="" tbref="31-20">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s103_w21" nrefs="s103_w31" tbref="31-21">&#928;&#973;&#961;&#961;&#945;</span>, <span class="alpheios-aligned-word" id="s103_w23" nrefs="s103_w34" tbref="31-23">&#947;&#965;&#957;&#945;&#8150;&#954;&#949;&#962;</span>. <span class="alpheios-aligned-word" id="s104_w1" nrefs="s104_w1" tbref="32-1">&#8005;&#952;&#949;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s104_w2" nrefs="" tbref="32-2">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s104_w3" nrefs="s104_w2" tbref="32-3">&#955;&#945;&#959;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s104_w4" nrefs="s104_w5" tbref="32-4">&#956;&#949;&#964;&#945;&#966;&#959;&#961;&#953;&#954;&#8182;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s104_w5" nrefs="s104_w3 s104_w4" tbref="32-5">&#8032;&#957;&#959;&#956;&#940;&#963;&#952;&#951;&#963;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s104_w6" nrefs="s104_w10" tbref="32-6">&#7936;&#960;&#8056;</span>
+                      <span class="alpheios-aligned-word" id="s104_w7" nrefs="s104_w11" tbref="32-7">&#964;&#959;&#8166;</span>
+                      <span class="alpheios-aligned-word" id="s104_w8" nrefs="s104_w11" tbref="32-8">&#955;&#8118;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s104_w9" nrefs="s104_w14" tbref="32-9">&#8001;</span>
+                      <span class="alpheios-aligned-word" id="s104_w10" nrefs="s104_w15" tbref="32-10">&#955;&#943;&#952;&#959;&#962;</span>.
+         </p>
+                 
+         <p>
+                      <span class="alpheios-aligned-word" id="s105_w1" nrefs="s105_w3" tbref="33-1">&#947;&#943;&#957;&#959;&#957;&#964;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s105_w2" nrefs="s105_w1" tbref="33-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s105_w3" nrefs="s105_w5" tbref="33-3">&#7952;&#954;</span>
+                      <span class="alpheios-aligned-word" id="s105_w4" nrefs="s105_w6" tbref="33-4">&#928;&#973;&#961;&#961;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w5" nrefs="s105_w2" tbref="33-5">&#916;&#949;&#965;&#954;&#945;&#955;&#943;&#969;&#957;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s105_w6" nrefs="s105_w4" tbref="33-6">&#960;&#945;&#8150;&#948;&#949;&#962;</span>
+                      <span id="toc-pb-d0e1747"></span>
+                      <span class="alpheios-aligned-word" id="s105_w7" nrefs="s105_w9" tbref="33-7">&#7965;&#955;&#955;&#951;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s105_w8" nrefs="" tbref="33-8">&#956;&#8050;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s105_w9" nrefs="s105_w8" tbref="33-9">&#960;&#961;&#8182;&#964;&#959;&#962;</span>, <span class="alpheios-aligned-word" id="s105_w11" nrefs="s105_w11" tbref="33-11">&#8003;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s105_w12" nrefs="" tbref="33-12">&#7952;&#954;</span>
+                      <span class="alpheios-aligned-word" id="s105_w13" nrefs="s105_w16" tbref="33-13">&#916;&#953;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w14" nrefs="s105_w12 s105_w15" tbref="33-14">&#947;&#949;&#947;&#949;&#957;&#957;&#8134;&#963;&#952;&#945;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s105_w15" nrefs="s105_w13" tbref="33-15">&lt;&#7956;&#957;&#953;&#959;&#953;&gt;</span>
+                      <span class="alpheios-aligned-word" id="s105_w16" nrefs="s105_w14" tbref="33-16">&#955;&#941;&#947;&#959;&#965;&#963;&#953;</span>, <span class="alpheios-aligned-word" id="s105_w18" nrefs="s105_w19" tbref="33-18">&lt;&#948;&#949;&#973;&#964;&#949;&#961;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w19" nrefs="s105_w18" tbref="33-19">&#948;&#8050;&gt;</span>
+                      <span class="alpheios-aligned-word" id="s105_w20" nrefs="s105_w20" tbref="33-20">&#7944;&#956;&#966;&#953;&#954;&#964;&#973;&#969;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s105_w21" nrefs="s105_w22" tbref="33-21">&#8001;</span>
+                      <span class="alpheios-aligned-word" id="s105_w22" nrefs="s105_w26" tbref="33-22">&#956;&#949;&#964;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s105_w23" nrefs="s105_w27" tbref="33-23">&#922;&#961;&#945;&#957;&#945;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s105_w24" nrefs="s105_w23 s105_w24" tbref="33-24">&#946;&#945;&#963;&#953;&#955;&#949;&#973;&#963;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w25" nrefs="s105_w25" tbref="33-25">&#964;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w26" nrefs="s105_w25" tbref="33-26">&#7944;&#964;&#964;&#953;&#954;&#8134;&#962;</span>, <span class="alpheios-aligned-word" id="s105_w28" nrefs="s105_w31 s105_w32" tbref="33-28">&#952;&#965;&#947;&#940;&#964;&#951;&#961;</span>
+                      <span class="alpheios-aligned-word" id="s105_w29" nrefs="" tbref="33-29">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s105_w30" nrefs="s105_w33" tbref="33-30">&#928;&#961;&#969;&#964;&#959;&#947;&#941;&#957;&#949;&#953;&#945;</span>, <span class="alpheios-aligned-word" id="s105_w32" nrefs="s105_w35 s105_w36 s105_w37 s105_w38 s105_w39" tbref="33-32">&#7952;&#958;</span>
+                      <span class="alpheios-aligned-word" id="s105_w33" nrefs="s105_w35 s105_w36 s105_w37 s105_w38 s105_w39" tbref="33-33">&#7975;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w34" nrefs="" tbref="33-34">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s105_w35" nrefs="s105_w41 s105_w42" tbref="33-35">&#916;&#953;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s105_w36" nrefs="s105_w40" tbref="33-36">&#7944;&#941;&#952;&#955;&#953;&#959;&#962;</span>.
+                    
+         </p>
+                 
+         <div class="stdfooter alpheios-ignore" id="citation">
+            <hr></hr>
+            <div class="footer"></div>
+            <hr></hr>
+            <address> Apollodorus.
+               	<span class="source-desc">  Apollodorus, The Library, with an English Translation by Sir James George Frazer, F.B.A., F.R.S. in 2 Volumes.  Cambridge,
+                  MA, Harvard University Press; London, William Heinemann Ltd.  1921. Includes Frazer's notes.</span><div class="rights_info">
+                  <p class="cc_rights">
+                               
+                                 This work is licensed under a
+                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                                 
+                             
+                  </p>
+               </div>
+               <!--
+	  Generated from toc using an XSLT version 1 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
+	  processed using SAXON 6.5.5 from Michael Kay
+	  on 2010-02-12T14:23:31-05:00-->
+            </address>
+         </div>
+         <div class="alpheios-ignore">
+            <div class="perseus-funder">The Annenberg CPB/Project provided support for entering this text.</div>
+            <div class="perseus-publication">XML for this text provided by
+               		<span class="publisher">Trustees of Tufts University</span><span class="pubPlace">Medford, MA</span><span class="authority">Perseus Project</span></div>
+         </div>
+      </div>
+   </body>
+</html>

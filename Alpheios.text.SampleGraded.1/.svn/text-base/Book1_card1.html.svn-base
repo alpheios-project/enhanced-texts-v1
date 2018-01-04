@@ -1,0 +1,103 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:html="http://www.w3.org/1999/xhtml" xml:lang="greek">
+   <!--THIS IS A GENERATED FILE. DO NOT EDIT (2)-->
+   <head>
+      <title>Alpheios:Sample Graded Text  1</title>
+      <meta name="author" content=""></meta>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"></meta>
+      <meta name="DC.Title" content="Alpheios:Sample Graded Text  1"></meta>
+      <meta name="DC.Type" content="Text"></meta>
+      <meta name="DC.Format" content="application/xhtml+xml"></meta>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <meta name="alpheios-pedagogical-text" content="true"></meta>
+      <meta name="alpheios-treebank-url" content="http://dev.alpheios.net:8800/exist/rest/xq/treebank-getmorph.xq?f=Sample1&amp;w=WORD"></meta>
+      <meta name="alpheios-treebank-diagram-url" content="http://dev.alpheios.net:8800/exist/rest/xq/treebank-getsvg.xq?f=Sample1&amp;s=SENTENCE&amp;w=WORD"></meta>
+      <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link rel="stylesheet" type="text/css" href="../site_menus/css/superfish.css"></link><script type="text/javascript" src="../site_menus/js/jquery-1.2.6.min.js"></script><script type="text/javascript" src="../site_menus/js/hoverIntent.js"></script><script type="text/javascript" src="../site_menus/js/superfish.js"></script><script type="text/javascript" src="../js/alpheios-text.js"></script><script type="text/javascript">
+                // document ready function
+                $(function(){
+                    alpheios_ready()
+                });
+            </script></head>
+   <body id="TOP" onload="check_for_alpheios();">
+      <!--Start Alpheios Header-->
+      <div class="alpheios-ignore">
+         <div id="alph-page-header"><a class="alpheios-logo" href="http://dev.alpheios.net:8008/site" alt="Alpheios"><img src="../img/alpheios.png"></img></a></div>
+         <div id="alph-toolbar" class="alpheios-toolbar">
+            <div id="alph-toolbar-main">
+               <ul class="sf-menu">
+                  <li class="current alpheios-toolbar-translation"><a href="#">Translation</a></li>
+                  <li class="current alpheios-toolbar-tree"><a href="#">Diagram</a></li>
+                  <li class="current alpheios-toolbar-level-label"><a href="#">Mode</a></li>
+                  <li class="current alpheios-toolbar-level learner" alpheios-value="learner"><a href="#"><img src="../img/readinglearning_centerline.gif"></img></a></li>
+                  <li class="current alpheios-toolbar-level reader" alpheios-value="reader"><a href="#">&nbsp;</a></li>
+               </ul>
+            </div>
+            <div id="alph-toolbar-tools">
+               <ul class="sf-menu">
+                  <li class="current alpheios-toolbar-inflect"><a href="#">Inflection Tables</a></li>
+                  <li class="current alpheios-toolbar-grammar"><a href="#">Grammar</a></li>
+                  <li class="current alpheios-toolbar-options"><a href="#">Options</a></li>
+                  <li class="current alpheios-toolbar-help-menu"><a href="#">Help</a><ul>
+                        <li class="current alpheios-toolbar-help"><a href="#">User Guide</a></li>
+                        <li class="current alpheios-toolbar-about"><a href="#">About</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <ul id="alpheios-install-links">
+            <caption>Please install the following Firefox Extensions required for optimal use of this site:</caption>
+         </ul><br clear="all"/>
+         <div id="header">
+            <div id="header_text">
+               <h1><span class="title">Sample Graded Text  1</span></h1>
+            </div>
+         </div>
+         <div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interliner-toggle">Show Interlinear Translation</label></div>
+      </div>
+      <!--End Alpheios Header-->
+      <div class="card" id="Book1_card1">
+         <h2 class="institution"></h2>
+         <h2 class="department"></h2>
+         <div class="alpheios-ignore alpheios-next-prev">
+            <p class="right"></p>
+         </div>
+         <div id="alph-trans-url" url="http://dev.alpheios.net:8020/alpheios-text/Alpheios.text.SampleGraded.1/align/Book1_card1.html"></div>
+                             
+         <div class="l">
+                                    <span class="alpheios-aligned-word" id="s1_w1" nrefs="s1_w1 s1_w2" tbref="1-1">&#960;&#945;&#973;&#959;&#965;&#963;&#953;</span>
+                                    <span class="alpheios-aligned-word" id="s1_w2" nrefs="s1_w3" tbref="1-2">&#964;&#972;&#957;</span>
+                                    <span class="alpheios-aligned-word" id="s1_w3" nrefs="s1_w4" tbref="1-3">&#963;&#964;&#961;&#945;&#964;&#951;&#947;&#972;&#957;</span>.
+                                
+         </div>
+                         
+         <div class="alpheios-ignore alpheios-next-prev">
+            <p class="right"></p>
+         </div>
+         <div class="stdfooter alpheios-ignore" id="citation">
+            <hr></hr>
+            <div class="footer"></div>
+            <hr></hr>
+            <address><br></br><div class="rights_info">
+                  <p class="cc_rights">
+                               
+                                 This work is licensed under a
+                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                                 
+                             
+                  </p>
+               </div>
+               <!--
+	  Generated from odyssey using an XSLT version 1 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
+	  processed using SAXON 6.5.5 from Michael Kay
+	  on 2009-04-13T15:53:50-04:00-->
+            </address>
+         </div>
+         <div class="alpheios-ignore"></div>
+      </div>
+   </body>
+</html>

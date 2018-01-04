@@ -1,0 +1,545 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:html="http://www.w3.org/1999/xhtml" xml:lang="greek">
+   <!--THIS IS A GENERATED FILE. DO NOT EDIT (2)-->
+   <head>
+      <title>Alpheios:Homer, Iliad (Greek)</title>
+      <meta name="author" content="Homer"></meta>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"></meta>
+      <meta name="DC.Title" content="Alpheios:Homer, Iliad (Greek)"></meta>
+      <meta name="DC.Type" content="Text"></meta>
+      <meta name="DC.Format" content="application/xhtml+xml"></meta>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <meta name="alpheios-pedagogical-text" content="true"></meta>
+      <meta name="alpheios-treebank-url" content="http://repos.alpheios.net:8080/exist/rest/db/xq/treebank-getmorph.xq?f=1999.01.0133&amp;w=WORD"></meta>
+      <meta name="alpheios-treebank-diagram-url" content="version=1.0;http://repos.alpheios.net:8080/exist/rest/db/app/treebank-editsentence.xhtml?doc=1999.01.0133&amp;app=viewer&amp;id=SENTENCE&amp;w=WORD"></meta>
+      <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link rel="stylesheet" type="text/css" href="http://alpheios.net/alpheios-texts/site_menus/css/superfish.css"></link>
+      <link rel="shortcut icon" type="image/x-icon" href="http://alpheios.net/alpheios-texts/img/alpheios_16.png"></link><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/hoverIntent.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/superfish.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/js/alpheios-text.js"></script><script type="text/javascript">               
+                // document ready function
+                $(function(){
+                    alpheios_ready()
+                });                
+            </script></head>
+   <body id="TOP" onload="check_for_alpheios();">
+      <!--Start Alpheios Header-->
+      <div class="alpheios-ignore">
+         <div id="alph-page-header">
+            <div class="alpheios-version-text"><a href="http://alpheios.net/content/release-notes" title="View Release Notes" target="_blank"></a></div><a class="alpheios-logo" href="http://alpheios.net" alt="Alpheios"><img src="http://alpheios.net/alpheios-texts/img/alpheios.png"></img></a></div>
+         <div id="alph-toolbar" class="alpheios-toolbar">
+            <div id="alph-toolbar-main">
+               <ul class="sf-menu">
+                  <li class="current alpheios-toolbar-level-label"><a href="#">Mode</a></li>
+                  <li class="current alpheios-toolbar-level learner" alpheios-value="learner"><a href="#"><img src="http://alpheios.net/alpheios-texts/img/readinglearning_centerline.gif"></img></a></li>
+                  <li class="current alpheios-toolbar-level reader" alpheios-value="reader"><a href="#">&nbsp;</a></li>
+                  <li class="current alpheios-toolbar-translation"><a href="#">Translation</a></li>
+                  <li class="current alpheios-toolbar-inflect"><a href="#">Inflection<br></br>Tables</a></li>
+                  <li class="current alpheios-toolbar-grammar"><a href="#">Grammar</a></li>
+                  <li class="current alpheios-toolbar-usertools"><a href="#">User Tools</a><ul>
+                        <li class="current alpheios-toolbar-user-diagram"><a href="#">My Diagrams</a></li>
+                        <li class="current alpheios-toolbar-vocab"><a href="#">My Vocabulary</a></li>
+                     </ul>
+                  </li>
+                  <li class="current alpheios-toolbar-options"><a href="#">Options</a></li>
+                  <li class="current alpheios-toolbar-help-menu"><a href="#">Help</a><ul>
+                        <li class="current alpheios-toolbar-help"><a href="#">User Guide</a></li>
+                        <li class="current alpheios-toolbar-feedback"><a href="#">Send Feedback</a></li>
+                        <li class="current alpheios-toolbar-about"><a href="#">About</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="alpheios-trigger-hint alpheios-hint"></div>
+         <div id="alpheios-current-level"><span alpheios-value="reader">Reading Mode</span><span alpheios-value="learner">Quiz Mode</span></div>
+         <ul id="alpheios-install-links">
+            <caption>Please install or update the following Firefox Extensions required for optimal use of this site:</caption>
+         </ul><br clear="all"></br><div id="header">
+            <div id="header_text">
+               <h1><span class="author">Homer, </span><span class="title">Iliad (Greek)</span><a id="alph-citation-links" href="#citation" title="Citation"><img id="alph-citation-icon" src="http://alpheios.net/alpheios-texts/img/citation_static.gif" alt="Citation"></img></a></h1>
+            </div>
+         </div><br></br><div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interlinear-toggle">Show Interlinear Translation</label></div>
+      </div>
+      <!--End Alpheios Header-->
+      <div class="card" id="book4_card446">
+         <h2 class="institution"></h2>
+         <h2 class="department"></h2>
+         <div class="alpheios-ignore alpheios-next-prev">
+            <p class="right"><a class="navigation" href="book4_card401.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/prev.gif"></img></a><a class="navigation" href="book4_card488.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/next.gif"></img></a></p>
+         </div>
+         <div id="alph-trans-url" url="http://alpheios.net/alpheios-texts/Perseus.text.1999.01.0133/align/book4_card446.html"></div>
+                        
+         <div class="l">
+                              
+            <div class="milestone para" id=""></div>
+                              <span class="alpheios-aligned-word" id="s1070_w1" nrefs="s1070_w3" tbrefs="6940-1">&#959;&#7987;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w2" nrefs="s1070_w1" tbrefs="6940-2">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w3" nrefs="s1070_w2" tbrefs="6940-3">&#8005;&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w4" nrefs="s_w" tbrefs="6940-4">&#948;&#942;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w5" nrefs="s_w" tbrefs="6940-5">&#8165;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w6" nrefs="s1070_w9" tbrefs="6940-6">&#7952;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w7" nrefs="s1070_w11" tbrefs="6940-7">&#967;&#8182;&#961;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w8" nrefs="s1070_w10" tbrefs="6940-8">&#7957;&#957;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w9" nrefs="s_w" tbrefs="6940-9">&#958;&#965;&#957;&#953;&#972;&#957;&#964;&#949;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w10" nrefs="s1070_w8" tbrefs="6940-10">&#7989;&#954;&#959;&#957;&#964;&#959;</span>,
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1070_w12" nrefs="s_w" tbrefs="6940-12">&#963;&#973;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w13" nrefs="s_w" tbrefs="6940-13">&#8165;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w14" nrefs="s_w" tbrefs="6940-14">&#7956;&#946;&#945;&#955;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w15" nrefs="s1070_w5" tbrefs="6940-15">&#8165;&#953;&#957;&#959;&#973;&#962;</span>, <span class="alpheios-aligned-word" id="s1070_w17" nrefs="s_w" tbrefs="6940-17">&#963;&#8058;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w18" nrefs="s1070_w18" tbrefs="6940-18">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w19" nrefs="s1070_w19" tbrefs="6940-19">&#7956;&#947;&#967;&#949;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w20" nrefs="s1070_w20" tbrefs="6940-20">&#954;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w21" nrefs="s1070_w22" tbrefs="6940-21">&#956;&#941;&#957;&#949;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1070_w22" nrefs="s1070_w27" tbrefs="6940-22">&#7936;&#957;&#948;&#961;&#8182;&#957;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1070_w23" nrefs="s1070_w26" tbrefs="6940-23">&#967;&#945;&#955;&#954;&#949;&#959;&#952;&#969;&#961;&#942;&#954;&#969;&#957;</span>: <span class="alpheios-aligned-word" id="s1071_w1" nrefs="s1071_w1" tbrefs="6941-1">&#7936;&#964;&#8048;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w2" nrefs="s1071_w4" tbrefs="6941-2">&#7936;&#963;&#960;&#943;&#948;&#949;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w3" nrefs="s1071_w3" tbrefs="6941-3">&#8000;&#956;&#966;&#945;&#955;&#972;&#949;&#963;&#963;&#945;&#953;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1071_w4" nrefs="s1071_w5" tbrefs="6941-4">&#7956;&#960;&#955;&#951;&#957;&#964;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w5" nrefs="s1071_w8" tbrefs="6941-5">&#7936;&#955;&#955;&#942;&#955;&#8131;&#963;&#953;</span>, <span class="alpheios-aligned-word" id="s1071_w7" nrefs="s1071_w11" tbrefs="6941-7">&#960;&#959;&#955;&#8058;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w8" nrefs="s_w" tbrefs="6941-8">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w9" nrefs="s1071_w13" tbrefs="6941-9">&#8000;&#961;&#965;&#956;&#945;&#947;&#948;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1071_w10" nrefs="s1071_w14" tbrefs="6941-10">&#8000;&#961;&#974;&#961;&#949;&#953;</span>.
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">450</div>
+                              <span class="alpheios-aligned-word" id="s1072_w1" nrefs="s1072_w1" tbrefs="6942-1">&#7956;&#957;&#952;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w2" nrefs="s_w" tbrefs="6942-2">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w3" nrefs="s1072_w4" tbrefs="6942-3">&#7941;&#956;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w4" nrefs="s1072_w8" tbrefs="6942-4">&#959;&#7984;&#956;&#969;&#947;&#942;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w5" nrefs="s_w" tbrefs="6942-5">&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w6" nrefs="s1072_w9" tbrefs="6942-6">&#954;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w7" nrefs="s1072_w16" tbrefs="6942-7">&#949;&#8016;&#967;&#969;&#955;&#8052;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w8" nrefs="s1072_w16" tbrefs="6942-8">&#960;&#941;&#955;&#949;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w9" nrefs="s1072_w12" tbrefs="6942-9">&#7936;&#957;&#948;&#961;&#8182;&#957;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1072_w10" nrefs="s_w" tbrefs="6942-10">&#8000;&#955;&#955;&#973;&#957;&#964;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w11" nrefs="s_w" tbrefs="6942-11">&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w12" nrefs="s1072_w17" tbrefs="6942-12">&#954;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w13" nrefs="s1072_w19" tbrefs="6942-13">&#8000;&#955;&#955;&#965;&#956;&#941;&#957;&#969;&#957;</span>, <span class="alpheios-aligned-word" id="s1072_w15" nrefs="s1072_w24" tbrefs="6942-15">&#8165;&#941;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w16" nrefs="s1072_w21" tbrefs="6942-16">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w17" nrefs="s1072_w26" tbrefs="6942-17">&#945;&#7989;&#956;&#945;&#964;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1072_w18" nrefs="s1072_w23" tbrefs="6942-18">&#947;&#945;&#8150;&#945;</span>.
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1073_w1" nrefs="s1073_w1" tbrefs="6943-1">&#8033;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w2" nrefs="s_w" tbrefs="6943-2">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w3" nrefs="s1073_w2" tbrefs="6943-3">&#8005;&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w4" nrefs="s1073_w4" tbrefs="6943-4">&#967;&#949;&#943;&#956;&#945;&#961;&#961;&#959;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w5" nrefs="s1073_w7" tbrefs="6943-5">&#960;&#959;&#964;&#945;&#956;&#959;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w6" nrefs="s1073_w7" tbrefs="6943-6">&#954;&#945;&#964;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w7" nrefs="s1073_w9" tbrefs="6943-7">&#8004;&#961;&#949;&#963;&#966;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w8" nrefs="s1073_w6" tbrefs="6943-8">&#8165;&#941;&#959;&#957;&#964;&#949;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1073_w9" nrefs="s1073_w14" tbrefs="6943-9">&#7952;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w10" nrefs="s1073_w11" tbrefs="6943-10">&#956;&#953;&#963;&#947;&#940;&#947;&#954;&#949;&#953;&#945;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w11" nrefs="s1073_w20" tbrefs="6943-11">&#963;&#965;&#956;&#946;&#940;&#955;&#955;&#949;&#964;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w12" nrefs="s1073_w24" tbrefs="6943-12">&#8004;&#946;&#961;&#953;&#956;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w13" nrefs="s1073_w25" tbrefs="6943-13">&#8021;&#948;&#969;&#961;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1073_w14" nrefs="s1073_w39" tbrefs="6943-14">&#954;&#961;&#959;&#965;&#957;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w15" nrefs="s1073_w10" tbrefs="6943-15">&#7952;&#954;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w16" nrefs="s1073_w12" tbrefs="6943-16">&#956;&#949;&#947;&#940;&#955;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w17" nrefs="s1073_w19" tbrefs="6943-17">&#954;&#959;&#943;&#955;&#951;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w18" nrefs="s_w" tbrefs="6943-18">&#7956;&#957;&#964;&#959;&#963;&#952;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w19" nrefs="s1073_w29" tbrefs="6943-19">&#967;&#945;&#961;&#940;&#948;&#961;&#951;&#962;</span>,
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">455</div>
+                              <span class="alpheios-aligned-word" id="s1073_w21" nrefs="s_w" tbrefs="6943-21">&#964;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w22" nrefs="s1073_w31" tbrefs="6943-22">&#948;&#941;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w23" nrefs="s_w" tbrefs="6943-23">&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w24" nrefs="s1073_w32" tbrefs="6943-24">&#964;&#951;&#955;&#972;&#963;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w25" nrefs="s1073_w34" tbrefs="6943-25">&#948;&#959;&#8166;&#960;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w26" nrefs="s1073_w34" tbrefs="6943-26">&#7952;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w27" nrefs="s1073_w36" tbrefs="6943-27">&#959;&#8020;&#961;&#949;&#963;&#953;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w28" nrefs="s_w" tbrefs="6943-28">&#7956;&#954;&#955;&#965;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1073_w29" nrefs="s1073_w38" tbrefs="6943-29">&#960;&#959;&#953;&#956;&#942;&#957;</span>:
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1074_w1" nrefs="s1074_w1" tbrefs="6944-1">&#8035;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w2" nrefs="s1074_w4" tbrefs="6944-2">&#964;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w3" nrefs="s1074_w5" tbrefs="6944-3">&#956;&#953;&#963;&#947;&#959;&#956;&#941;&#957;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w4" nrefs="s_w" tbrefs="6944-4">&#947;&#941;&#957;&#949;&#964;&#959;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w5" nrefs="s1074_w11" tbrefs="6944-5">&#7984;&#945;&#967;&#942;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w6" nrefs="s1074_w12" tbrefs="6944-6">&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w7" nrefs="s1074_w13" tbrefs="6944-7">&#960;&#972;&#957;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1074_w8" nrefs="s_w" tbrefs="6944-8">&#964;&#949;</span>.
+         </div>
+                        
+         <div class="l">
+                              
+            <div class="milestone para" id=""></div>
+                              <span class="alpheios-aligned-word" id="s1075_w1" nrefs="s1075_w3" tbrefs="6945-1">&#960;&#961;&#8182;&#964;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w2" nrefs="s_w" tbrefs="6945-2">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w3" nrefs="s1075_w1" tbrefs="6945-3">&#7944;&#957;&#964;&#943;&#955;&#959;&#967;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w4" nrefs="s1075_w10" tbrefs="6945-4">&#932;&#961;&#974;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w5" nrefs="s_w" tbrefs="6945-5">&#7957;&#955;&#949;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w6" nrefs="s1075_w17" tbrefs="6945-6">&#7940;&#957;&#948;&#961;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w7" nrefs="s1075_w5" tbrefs="6945-7">&#954;&#959;&#961;&#965;&#963;&#964;&#8052;&#957;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1075_w8" nrefs="s_w" tbrefs="6945-8">&#7952;&#963;&#952;&#955;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w9" nrefs="s1075_w11" tbrefs="6945-9">&#7952;&#957;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w10" nrefs="s1075_w21" tbrefs="6945-10">&#960;&#961;&#959;&#956;&#940;&#967;&#959;&#953;&#963;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w11" nrefs="s1075_w27" tbrefs="6945-11">&#920;&#945;&#955;&#965;&#963;&#953;&#940;&#948;&#951;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1075_w12" nrefs="s1075_w23" tbrefs="6945-12">&#7960;&#967;&#941;&#960;&#969;&#955;&#959;&#957;</span>:
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1076_w1" nrefs="s_w" tbrefs="6946-1">&#964;&#972;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w2" nrefs="s1076_w1" tbrefs="6946-2">&#8165;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w3" nrefs="s1076_w6" tbrefs="6946-3">&#7956;&#946;&#945;&#955;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w4" nrefs="s1076_w4" tbrefs="6946-4">&#960;&#961;&#8182;&#964;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w5" nrefs="s1076_w11" tbrefs="6946-5">&#954;&#972;&#961;&#965;&#952;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w6" nrefs="s1076_w9" tbrefs="6946-6">&#966;&#940;&#955;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w7" nrefs="s1076_w14" tbrefs="6946-7">&#7985;&#960;&#960;&#959;&#948;&#945;&#963;&#949;&#943;&#951;&#962;</span>,
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">460</div>
+                              <span class="alpheios-aligned-word" id="s1076_w9" nrefs="s_w" tbrefs="6946-9">&#7952;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w10" nrefs="s1076_w20" tbrefs="6946-10">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w11" nrefs="s1076_w23" tbrefs="6946-11">&#956;&#949;&#964;&#974;&#960;&#8179;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w12" nrefs="s1076_w23" tbrefs="6946-12">&#960;&#8134;&#958;&#949;</span>, <span class="alpheios-aligned-word" id="s1076_w14" nrefs="s1076_w33" tbrefs="6946-14">&#960;&#941;&#961;&#951;&#963;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w15" nrefs="s_w" tbrefs="6946-15">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w16" nrefs="s1076_w24" tbrefs="6946-16">&#7940;&#961;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w17" nrefs="s1076_w36" tbrefs="6946-17">&#8000;&#963;&#964;&#941;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w18" nrefs="s1076_w34" tbrefs="6946-18">&#949;&#7988;&#963;&#969;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1076_w19" nrefs="s1076_w26" tbrefs="6946-19">&#945;&#7984;&#967;&#956;&#8052;</span> 
+                              <span class="alpheios-aligned-word" id="s1076_w20" nrefs="s1076_w32" tbrefs="6946-20">&#967;&#945;&#955;&#954;&#949;&#943;&#951;</span>: <span class="alpheios-aligned-word" id="s1077_w1" nrefs="s_w" tbrefs="6947-1">&#964;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w2" nrefs="s1077_w1" tbrefs="6947-2">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w3" nrefs="s1077_w2" tbrefs="6947-3">&#963;&#954;&#972;&#964;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w4" nrefs="s1077_w3" tbrefs="6947-4">&#8004;&#963;&#963;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w5" nrefs="s1077_w3" tbrefs="6947-5">&#954;&#940;&#955;&#965;&#968;&#949;&#957;</span>,
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1077_w7" nrefs="s1077_w9" tbrefs="6947-7">&#7972;&#961;&#953;&#960;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w8" nrefs="s_w" tbrefs="6947-8">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w9" nrefs="s1077_w10" tbrefs="6947-9">&#8033;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w10" nrefs="s1077_w11" tbrefs="6947-10">&#8005;&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w11" nrefs="s1077_w13" tbrefs="6947-11">&#960;&#973;&#961;&#947;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w12" nrefs="s1077_w15" tbrefs="6947-12">&#7952;&#957;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w13" nrefs="s1077_w17" tbrefs="6947-13">&#954;&#961;&#945;&#964;&#949;&#961;&#8135;</span> 
+                              <span class="alpheios-aligned-word" id="s1077_w14" nrefs="s1077_w18" tbrefs="6947-14">&#8017;&#963;&#956;&#943;&#957;&#8131;</span>.
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1078_w1" nrefs="s_w" tbrefs="6948-1">&#964;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w2" nrefs="s1078_w1" tbrefs="6948-2">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w3" nrefs="s1078_w3" tbrefs="6948-3">&#960;&#949;&#963;&#972;&#957;&#964;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w4" nrefs="s1078_w10" tbrefs="6948-4">&#960;&#959;&#948;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w5" nrefs="s1078_w6" tbrefs="6948-5">&#7956;&#955;&#945;&#946;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w6" nrefs="s1078_w4" tbrefs="6948-6">&#954;&#961;&#949;&#943;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w7" nrefs="s1078_w5" tbrefs="6948-7">&#7960;&#955;&#949;&#966;&#942;&#957;&#969;&#961;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1078_w8" nrefs="s1078_w16" tbrefs="6948-8">&#935;&#945;&#955;&#954;&#969;&#948;&#959;&#957;&#964;&#953;&#940;&#948;&#951;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w9" nrefs="s1078_w24" tbrefs="6948-9">&#956;&#949;&#947;&#945;&#952;&#973;&#956;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w10" nrefs="s1078_w25" tbrefs="6948-10">&#7936;&#961;&#967;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w11" nrefs="s1078_w25" tbrefs="6948-11">&#7944;&#946;&#940;&#957;&#964;&#969;&#957;</span>,
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">465</div>
+                              <span class="alpheios-aligned-word" id="s1078_w13" nrefs="s1078_w30" tbrefs="6948-13">&#7957;&#955;&#954;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w14" nrefs="s1078_w27" tbrefs="6948-14">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w15" nrefs="s1078_w8" tbrefs="6948-15">&#8017;&#960;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w16" nrefs="s1078_w32" tbrefs="6948-16">&#7952;&#954;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w17" nrefs="s1078_w35" tbrefs="6948-17">&#946;&#949;&#955;&#941;&#969;&#957;</span>, <span class="alpheios-aligned-word" id="s1078_w19" nrefs="s1078_w33" tbrefs="6948-19">&#955;&#949;&#955;&#953;&#951;&#956;&#941;&#957;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w20" nrefs="s_w" tbrefs="6948-20">&#8004;&#966;&#961;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w21" nrefs="s1078_w40" tbrefs="6948-21">&#964;&#940;&#967;&#953;&#963;&#964;&#945;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1078_w22" nrefs="s1078_w45" tbrefs="6948-22">&#964;&#949;&#973;&#967;&#949;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1078_w23" nrefs="s1078_w42" tbrefs="6948-23">&#963;&#965;&#955;&#942;&#963;&#949;&#953;&#949;</span>: <span class="alpheios-aligned-word" id="s1079_w1" nrefs="s1079_w5" tbrefs="6949-1">&#956;&#943;&#957;&#965;&#957;&#952;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1079_w2" nrefs="s1079_w2" tbrefs="6949-2">&#948;&#941;</span> 
+                              <span class="alpheios-aligned-word" id="s1079_w3" nrefs="s_w" tbrefs="6949-3">&#959;&#7985;</span> 
+                              <span class="alpheios-aligned-word" id="s1079_w4" nrefs="s_w" tbrefs="6949-4">&#947;&#941;&#957;&#949;&#952;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1079_w5" nrefs="s_w" tbrefs="6949-5">&#8001;&#961;&#956;&#942;</span>.
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1080_w1" nrefs="s1080_w7" tbrefs="6950-1">&#957;&#949;&#954;&#961;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w2" nrefs="s1080_w1" tbrefs="6950-2">&#947;&#8048;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w3" nrefs="s1080_w5" tbrefs="6950-3">&#7952;&#961;&#973;&#959;&#957;&#964;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w4" nrefs="s1080_w3" tbrefs="6950-4">&#7984;&#948;&#8060;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w5" nrefs="s1080_w10" tbrefs="6950-5">&#956;&#949;&#947;&#940;&#952;&#965;&#956;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w6" nrefs="s1080_w11" tbrefs="6950-6">&#7944;&#947;&#942;&#957;&#969;&#961;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1080_w7" nrefs="s1080_w19" tbrefs="6950-7">&#960;&#955;&#949;&#965;&#961;&#940;</span>, <span class="alpheios-aligned-word" id="s1080_w9" nrefs="s_w" tbrefs="6950-9">&#964;&#940;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w10" nrefs="s1080_w18" tbrefs="6950-10">&#959;&#7985;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w11" nrefs="s1080_w30" tbrefs="6950-11">&#954;&#973;&#968;&#945;&#957;&#964;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w12" nrefs="s1080_w20" tbrefs="6950-12">&#960;&#945;&#961;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w13" nrefs="s1080_w26" tbrefs="6950-13">&#7936;&#963;&#960;&#943;&#948;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w14" nrefs="s_w" tbrefs="6950-14">&#7952;&#958;&#949;&#966;&#945;&#940;&#957;&#952;&#951;</span>,
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1080_w16" nrefs="s1080_w36" tbrefs="6950-16">&#959;&#8020;&#964;&#951;&#963;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w17" nrefs="s1080_w32" tbrefs="6950-17">&#958;&#965;&#963;&#964;&#8183;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w18" nrefs="s1080_w43" tbrefs="6950-18">&#967;&#945;&#955;&#954;&#942;&#961;&#949;&#970;</span>, <span class="alpheios-aligned-word" id="s1080_w20" nrefs="s1080_w49" tbrefs="6950-20">&#955;&#8166;&#963;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w21" nrefs="s1080_w48" tbrefs="6950-21">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1080_w22" nrefs="s1080_w51" tbrefs="6950-22">&#947;&#965;&#8150;&#945;</span>.
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">470</div>
+                              <span class="alpheios-aligned-word" id="s1081_w1" nrefs="s1081_w1" tbrefs="6951-1">&#8035;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w2" nrefs="s_w" tbrefs="6951-2">&#964;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w3" nrefs="s_w" tbrefs="6951-3">&#956;&#8050;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w4" nrefs="s1081_w4" tbrefs="6951-4">&#955;&#943;&#960;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w5" nrefs="s1081_w3" tbrefs="6951-5">&#952;&#965;&#956;&#972;&#962;</span>, <span class="alpheios-aligned-word" id="s1081_w7" nrefs="s1081_w8" tbrefs="6951-7">&#7952;&#960;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w8" nrefs="s1081_w5" tbrefs="6951-8">&#945;&#8016;&#964;&#8183;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w9" nrefs="s1081_w7" tbrefs="6951-9">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w10" nrefs="s1081_w12" tbrefs="6951-10">&#7956;&#961;&#947;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w11" nrefs="s1081_w12" tbrefs="6951-11">&#7952;&#964;&#973;&#967;&#952;&#951;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1081_w12" nrefs="s1081_w13" tbrefs="6951-12">&#7936;&#961;&#947;&#945;&#955;&#941;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w13" nrefs="s1081_w16" tbrefs="6951-13">&#932;&#961;&#974;&#969;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w14" nrefs="s1081_w17" tbrefs="6951-14">&#954;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1081_w15" nrefs="s1081_w18" tbrefs="6951-15">&#7944;&#967;&#945;&#953;&#8182;&#957;</span>: <span class="alpheios-aligned-word" id="s1082_w1" nrefs="s_w" tbrefs="6952-1">&#959;&#7987;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w2" nrefs="s_w" tbrefs="6952-2">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w3" nrefs="s1082_w3" tbrefs="6952-3">&#955;&#973;&#954;&#959;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w4" nrefs="s1082_w1" tbrefs="6952-4">&#8035;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1082_w5" nrefs="s1082_w9" tbrefs="6952-5">&#7936;&#955;&#955;&#942;&#955;&#959;&#953;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w6" nrefs="s1082_w4" tbrefs="6952-6">&#7952;&#960;&#972;&#961;&#959;&#965;&#963;&#945;&#957;</span>, <span class="alpheios-aligned-word" id="s1082_w8" nrefs="s1082_w12" tbrefs="6952-8">&#7936;&#957;&#8052;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w9" nrefs="s1082_w11" tbrefs="6952-9">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w10" nrefs="s1082_w14" tbrefs="6952-10">&#7940;&#957;&#948;&#961;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1082_w11" nrefs="s1082_w16" tbrefs="6952-11">&#7952;&#948;&#957;&#959;&#960;&#940;&#955;&#953;&#950;&#949;&#957;</span>.
+         </div>
+                        
+         <div class="l">
+                              
+            <div class="milestone para" id=""></div>
+                              <span class="alpheios-aligned-word" id="s1083_w1" nrefs="s1083_w1" tbrefs="6953-1">&#7956;&#957;&#952;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w2" nrefs="s1083_w4" tbrefs="6953-2">&#7956;&#946;&#945;&#955;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w3" nrefs="s1083_w5" tbrefs="6953-3">&#7944;&#957;&#952;&#949;&#956;&#943;&#969;&#957;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w4" nrefs="s1083_w8" tbrefs="6953-4">&#965;&#7985;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w5" nrefs="s1083_w2" tbrefs="6953-5">&#932;&#949;&#955;&#945;&#956;&#974;&#957;&#953;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w6" nrefs="s1083_w3" tbrefs="6953-6">&#913;&#7988;&#945;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1083_w7" nrefs="s1083_w12" tbrefs="6953-7">&#7968;&#912;&#952;&#949;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w8" nrefs="s1083_w13" tbrefs="6953-8">&#952;&#945;&#955;&#949;&#961;&#8056;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w9" nrefs="s1083_w13" tbrefs="6953-9">&#931;&#953;&#956;&#959;&#949;&#943;&#963;&#953;&#959;&#957;</span>, <span class="alpheios-aligned-word" id="s1083_w11" nrefs="s1083_w15" tbrefs="6953-11">&#8005;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w12" nrefs="s1083_w18" tbrefs="6953-12">&#960;&#959;&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w13" nrefs="s1083_w20" tbrefs="6953-13">&#956;&#942;&#964;&#951;&#961;</span>
+                           
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">475</div>
+                              <span class="alpheios-aligned-word" id="s1083_w14" nrefs="s1083_w34" tbrefs="6953-14">&#7996;&#948;&#951;&#952;&#949;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w15" nrefs="s1083_w32" tbrefs="6953-15">&#954;&#945;&#964;&#953;&#959;&#8166;&#963;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w16" nrefs="s1083_w23" tbrefs="6953-16">&#960;&#945;&#961;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w17" nrefs="s1083_w25" tbrefs="6953-17">&#8004;&#967;&#952;&#8131;&#963;&#953;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w18" nrefs="s1083_w27" tbrefs="6953-18">&#931;&#953;&#956;&#972;&#949;&#957;&#964;&#959;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1083_w19" nrefs="s1083_w22" tbrefs="6953-19">&#947;&#949;&#943;&#957;&#945;&#964;&#8125;</span>, <span class="alpheios-aligned-word" id="s1083_w21" nrefs="s_w" tbrefs="6953-21">&#7952;&#960;&#949;&#943;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w22" nrefs="s_w" tbrefs="6953-22">&#8165;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w23" nrefs="s1083_w42" tbrefs="6953-23">&#964;&#959;&#954;&#949;&#8166;&#963;&#953;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w24" nrefs="s_w" tbrefs="6953-24">&#7941;&#956;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w25" nrefs="s1083_w39" tbrefs="6953-25">&#7957;&#963;&#960;&#949;&#964;&#959;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w26" nrefs="s1083_w46" tbrefs="6953-26">&#956;&#8134;&#955;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1083_w27" nrefs="s1083_w44" tbrefs="6953-27">&#7984;&#948;&#941;&#963;&#952;&#945;&#953;</span>:
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1084_w1" nrefs="s1084_w2" tbrefs="6954-1">&#964;&#959;&#8020;&#957;&#949;&#954;&#940;</span> 
+                              <span class="alpheios-aligned-word" id="s1084_w2" nrefs="s1084_w6" tbrefs="6954-2">&#956;&#953;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1084_w3" nrefs="s1084_w5" tbrefs="6954-3">&#954;&#940;&#955;&#949;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1084_w4" nrefs="s1084_w7" tbrefs="6954-4">&#931;&#953;&#956;&#959;&#949;&#943;&#963;&#953;&#959;&#957;</span>: <span class="alpheios-aligned-word" id="s1085_w1" nrefs="s1085_w4" tbrefs="6955-1 6955-2">&#959;&#8016;&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w2" nrefs="s1085_w9" tbrefs="6955-3">&#964;&#959;&#954;&#949;&#8166;&#963;&#953;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1085_w3" nrefs="s1085_w14" tbrefs="6955-4">&#952;&#961;&#941;&#960;&#964;&#961;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w4" nrefs="s1085_w8" tbrefs="6955-5">&#966;&#943;&#955;&#959;&#953;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w5" nrefs="s1085_w5" tbrefs="6955-6">&#7936;&#960;&#941;&#948;&#969;&#954;&#949;</span>, <span class="alpheios-aligned-word" id="s1085_w7" nrefs="s1085_w13" tbrefs="6955-8">&#956;&#953;&#957;&#965;&#957;&#952;&#940;&#948;&#953;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w8" nrefs="s1085_w16" tbrefs="6955-9">&#948;&#941;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w9" nrefs="s1085_w33" tbrefs="6955-10">&#959;&#7985;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w10" nrefs="s1085_w43" tbrefs="6955-11">&#945;&#7984;&#8060;&#957;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1085_w11" nrefs="s1085_w26" tbrefs="6955-12">&#7956;&#960;&#955;&#949;&#952;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w12" nrefs="s1085_w32" tbrefs="6955-13">&#8017;&#960;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w13" nrefs="s1085_w39" tbrefs="6955-14">&#913;&#7988;&#945;&#957;&#964;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w14" nrefs="s1085_w38" tbrefs="6955-15">&#956;&#949;&#947;&#945;&#952;&#973;&#956;&#959;&#965;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w15" nrefs="s1085_w34" tbrefs="6955-16">&#948;&#959;&#965;&#961;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1085_w16" nrefs="s1085_w28" tbrefs="6955-17">&#948;&#945;&#956;&#941;&#957;&#964;&#953;</span>.
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">480</div>
+                              <span class="alpheios-aligned-word" id="s1086_w1" nrefs="s_w" tbrefs="6956-1">&#960;&#961;&#8182;&#964;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w2" nrefs="s_w" tbrefs="6956-2">&#947;&#940;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w3" nrefs="s_w" tbrefs="6956-3">&#956;&#953;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w4" nrefs="s1086_w1" tbrefs="6956-4">&#7984;&#972;&#957;&#964;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w5" nrefs="s1086_w40" tbrefs="6956-5">&#946;&#940;&#955;&#949;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w6" nrefs="s1086_w40" tbrefs="6956-6">&#963;&#964;&#8134;&#952;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w7" nrefs="s1086_w43" tbrefs="6956-7">&#960;&#945;&#961;&#8048;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w8" nrefs="s_w" tbrefs="6956-8">&#956;&#945;&#950;&#8056;&#957;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1086_w9" nrefs="s_w" tbrefs="6956-9">&#948;&#949;&#958;&#953;&#972;&#957;</span>: <span class="alpheios-aligned-word" id="s1086_w11" nrefs="s1086_w2" tbrefs="6957-1">&#7936;&#957;&#964;&#953;&#954;&#961;&#8058;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w12" nrefs="s_w" tbrefs="6957-2">&#948;&#8050;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w13" nrefs="s1086_w3" tbrefs="6957-3">&#948;&#953;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w14" nrefs="s1086_w5" tbrefs="6957-4">&#8036;&#956;&#959;&#965;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w15" nrefs="s1086_w10" tbrefs="6957-5">&#967;&#940;&#955;&#954;&#949;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w16" nrefs="s1086_w8" tbrefs="6957-6">&#7956;&#947;&#967;&#959;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1086_w17" nrefs="s1086_w6" tbrefs="6957-7">&#7974;&#955;&#952;&#949;&#957;</span>: <span class="alpheios-aligned-word" id="s1086_w19" nrefs="s_w" tbrefs="6958-1">&#8003;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w20" nrefs="s1086_w12" tbrefs="6958-2">&#948;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w21" nrefs="s1086_w18" tbrefs="6958-3">&#7952;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w22" nrefs="s1086_w20" tbrefs="6958-4">&#954;&#959;&#957;&#943;&#8131;&#963;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w23" nrefs="s1086_w17" tbrefs="6958-5">&#967;&#945;&#956;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w24" nrefs="s1086_w14" tbrefs="6958-6">&#960;&#941;&#963;&#949;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w25" nrefs="s1086_w23" tbrefs="6958-7">&#945;&#7988;&#947;&#949;&#953;&#961;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w26" nrefs="s1086_w23" tbrefs="6958-8">&#8035;&#962;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1086_w27" nrefs="s_w" tbrefs="6958-9">&#7973;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w28" nrefs="s_w" tbrefs="6958-10">&#8165;&#940;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w29" nrefs="s1086_w26" tbrefs="6958-11">&#964;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w30" nrefs="s1086_w29" tbrefs="6958-12">&#7952;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w31" nrefs="s1086_w31" tbrefs="6958-13">&#949;&#7985;&#945;&#956;&#949;&#957;&#8135;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w32" nrefs="s1086_w36" tbrefs="6958-14">&#7957;&#955;&#949;&#959;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w33" nrefs="s1086_w35" tbrefs="6958-15">&#956;&#949;&#947;&#940;&#955;&#959;&#953;&#959;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w34" nrefs="s_w" tbrefs="6958-16">&#960;&#949;&#966;&#973;&#954;&#949;&#953;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1086_w35" nrefs="s1086_w38" tbrefs="6958-17">&#955;&#949;&#943;&#951;</span>, <span class="alpheios-aligned-word" id="s1086_w37" nrefs="s1086_w42" tbrefs="6958-19">&#7936;&#964;&#940;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w38" nrefs="s_w" tbrefs="6958-20">&#964;&#941;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w39" nrefs="s_w" tbrefs="6958-21">&#959;&#7985;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w40" nrefs="s_w" tbrefs="6958-22">&#8004;&#950;&#959;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w41" nrefs="s1086_w45" tbrefs="6958-23">&#7952;&#960;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w42" nrefs="s1086_w45" tbrefs="6958-24">&#7936;&#954;&#961;&#959;&#964;&#940;&#964;&#8131;</span> 
+                              <span class="alpheios-aligned-word" id="s1086_w43" nrefs="s1086_w48" tbrefs="6958-25">&#960;&#949;&#966;&#973;&#945;&#963;&#953;</span>:
+         </div>
+                        
+         <div class="l">
+            <div class="linenum">485</div>
+                              <span class="alpheios-aligned-word" id="s1087_w1" nrefs="s1087_w1" tbrefs="6959-1">&#964;&#8052;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w2" nrefs="s1087_w4" tbrefs="6959-2">&#956;&#941;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w3" nrefs="s1087_w4" tbrefs="6959-3">&#952;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w4" nrefs="s1087_w4" tbrefs="6959-4">&#7937;&#961;&#956;&#945;&#964;&#959;&#960;&#951;&#947;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w5" nrefs="s1087_w15" tbrefs="6959-5">&#7936;&#957;&#8052;&#961;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w6" nrefs="s1087_w8" tbrefs="6959-6">&#945;&#7988;&#952;&#969;&#957;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w7" nrefs="s1087_w9" tbrefs="6959-7">&#963;&#953;&#948;&#942;&#961;&#8179;</span>
+                           
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="s1087_w8" nrefs="s_w" tbrefs="6959-8">&#7952;&#958;&#941;&#964;&#945;&#956;&#8125;</span>, <span class="alpheios-aligned-word" id="s1087_w10" nrefs="s1087_w10" tbrefs="6959-10">&#8004;&#966;&#961;&#945;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w11" nrefs="s1087_w16" tbrefs="6959-11">&#7988;&#964;&#965;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w12" nrefs="s1087_w13" tbrefs="6959-12">&#954;&#940;&#956;&#968;&#8131;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w13" nrefs="s1087_w19" tbrefs="6959-13">&#960;&#949;&#961;&#953;&#954;&#945;&#955;&#955;&#941;&#970;</span> 
+                              <span class="alpheios-aligned-word" id="s1087_w14" nrefs="s1087_w20" tbrefs="6959-14">&#948;&#943;&#966;&#961;&#8179;</span>:
+         </div>
+                        
+         <div class="l">
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-1">&#7971;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-2">&#956;&#941;&#957;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-3">&#964;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-4">&#7936;&#950;&#959;&#956;&#941;&#957;&#951;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-5">&#954;&#949;&#8150;&#964;&#945;&#953;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-6">&#960;&#959;&#964;&#945;&#956;&#959;&#8150;&#959;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-7">&#960;&#945;&#961;&#8125;</span> 
+                              <span class="alpheios-aligned-word" id="" nrefs="" tbrefs="6960-8">&#8004;&#967;&#952;&#945;&#962;</span>.
+         </div>
+                     
+         <div class="alpheios-ignore alpheios-next-prev">
+            <p class="right"><a class="navigation" href="book4_card401.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/prev.gif"></img></a><a class="navigation" href="book4_card488.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/next.gif"></img></a></p>
+         </div>
+         <div class="stdfooter alpheios-ignore" id="citation">
+            <hr></hr>
+            <div class="footer"></div>
+            <hr></hr>
+            <address> Homer.
+               	<span class="source-desc">   Homeri Opera in five volumes.   Oxford, Oxford University Press.  1920.   </span><div class="rights_info">
+                  <p class="cc_rights">
+                               
+                                 This work is licensed under a
+                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                                 
+                             
+                  </p>
+               </div>
+               <!--
+	  Generated from toc using an XSLT version 1 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
+	  processed using SAXON 6.5.5 from Michael Kay
+	  on 2010-02-12T14:23:53-05:00-->
+            </address>
+         </div>
+         <div class="alpheios-ignore">
+            <div class="perseus-funder">The Annenberg CPB/Project provided support for entering this text.</div>
+            <div class="perseus-publication">XML for this text provided by
+               		<span class="publisher">Trustees of Tufts University</span><span class="pubPlace">Medford, MA</span><span class="authority">Perseus Project</span></div>
+         </div>
+      </div>
+   </body>
+</html>

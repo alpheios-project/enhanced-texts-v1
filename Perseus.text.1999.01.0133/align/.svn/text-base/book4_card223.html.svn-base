@@ -1,0 +1,483 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:html="http://www.w3.org/1999/xhtml" xml:lang="en">
+   <!--THIS IS A GENERATED FILE. DO NOT EDIT (2)-->
+   <head>
+      <title>Alpheios:
+         (223)
+         
+      </title>
+      <meta name="author" content=""></meta>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"></meta>
+      <meta name="DC.Title" content="Alpheios:&#xA;                        (223)&#xA;                     "></meta>
+      <meta name="DC.Type" content="Text"></meta>
+      <meta name="DC.Format" content="application/xhtml+xml"></meta>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <link href="chrome://alpheios/content/interlinear/css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link href="chrome://alpheios/content/interlinear/css/alpheios-translation.css" rel="stylesheet" type="text/css"></link>
+   </head>
+   <body id="TOP" onload="check_for_alpheios();">
+      <!--Start Alpheios Header-->
+      <div class="card" id="book4_card223">
+         <h2 class="institution"></h2>
+         <h2 class="department"></h2>
+                        <span class="alpheios-aligned-word" id="s955_w1" nrefs="s955_w1">Then</span> 
+                        <span class="alpheios-aligned-word" id="s955_w2" nrefs="s_w">wouldst</span> 
+                        <span class="alpheios-aligned-word" id="s955_w3" nrefs="s_w">thou</span> 
+                        <span class="alpheios-aligned-word" id="s955_w4" nrefs="s955_w2">not</span> 
+                        <span class="alpheios-aligned-word" id="s955_w5" nrefs="s_w">have</span> 
+                        <span class="alpheios-aligned-word" id="s955_w6" nrefs="s955_w5">seen</span> 
+                        <span class="alpheios-aligned-word" id="s955_w7" nrefs="s955_w7">goodly</span> 
+                        <span class="alpheios-aligned-word" id="s955_w8" nrefs="s955_w6">Agamemnon</span> 
+                        <span class="alpheios-aligned-word" id="s955_w9" nrefs="s955_w4">slumbering</span>, <span class="alpheios-aligned-word" id="s955_w11" nrefs="s955_w8">nor</span> 
+                        <span class="alpheios-aligned-word" id="s955_w12" nrefs="s955_w9">cowering</span>, <span class="alpheios-aligned-word" id="s955_w14" nrefs="s955_w10">nor</span> 
+                        <span class="alpheios-aligned-word" id="s955_w15" nrefs="s_w">with</span> 
+                        <span class="alpheios-aligned-word" id="s955_w16" nrefs="s955_w11">no</span> 
+                        <span class="alpheios-aligned-word" id="s955_w17" nrefs="s_w">heart</span> 
+                        <span class="alpheios-aligned-word" id="s955_w18" nrefs="s_w">for</span> 
+                        <span class="alpheios-aligned-word" id="s955_w19" nrefs="s955_w13">fight</span>,
+         <div class="milestone line" id="m225"></div>
+                        <span class="alpheios-aligned-word" id="s955_w21" nrefs="s955_w15">but</span> 
+                        <span class="alpheios-aligned-word" id="s955_w22" nrefs="s955_w16">full</span> 
+                        <span class="alpheios-aligned-word" id="s955_w23" nrefs="s955_w17">eager</span> 
+                        <span class="alpheios-aligned-word" id="s955_w24" nrefs="s_w">for</span> 
+                        <span class="alpheios-aligned-word" id="s955_w25" nrefs="s955_w18">battle</span> 
+                        <span class="alpheios-aligned-word" id="s955_w26" nrefs="s_w">where</span> 
+                        <span class="alpheios-aligned-word" id="s955_w27" nrefs="s_w">men</span> 
+                        <span class="alpheios-aligned-word" id="s955_w28" nrefs="s_w">win</span> 
+                        <span class="alpheios-aligned-word" id="s955_w29" nrefs="s955_w20">glory</span>. <span class="alpheios-aligned-word" id="s956_w1" nrefs="s_w">His</span> 
+                        <span class="alpheios-aligned-word" id="s956_w2" nrefs="s956_w1">horses</span> 
+                        <span class="alpheios-aligned-word" id="s956_w3" nrefs="s956_w5">and</span> 
+                        <span class="alpheios-aligned-word" id="s956_w4" nrefs="s_w">his</span> 
+                        <span class="alpheios-aligned-word" id="s956_w5" nrefs="s956_w6">chariot</span> 
+                        <span class="alpheios-aligned-word" id="s956_w6" nrefs="s956_w7">adorned</span> 
+                        <span class="alpheios-aligned-word" id="s956_w7" nrefs="s_w">with</span> 
+                        <span class="alpheios-aligned-word" id="s956_w8" nrefs="s956_w8">bronze</span> 
+                        <span class="alpheios-aligned-word" id="s956_w9" nrefs="s956_w3">he</span> 
+                        <span class="alpheios-aligned-word" id="s956_w10" nrefs="s956_w4">let</span> 
+                        <span class="alpheios-aligned-word" id="s956_w11" nrefs="s_w">be</span>, <span class="alpheios-aligned-word" id="s956_w13" nrefs="s956_w10">and</span> 
+                        <span class="alpheios-aligned-word" id="s956_w14" nrefs="s956_w11">his</span> 
+                        <span class="alpheios-aligned-word" id="s956_w15" nrefs="s956_w13">squire</span>, <span class="alpheios-aligned-word" id="s956_w17" nrefs="s956_w17">Eurymedon</span>, <span class="alpheios-aligned-word" id="s956_w19" nrefs="s956_w18">son</span> 
+                        <span class="alpheios-aligned-word" id="s956_w20" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s956_w21" nrefs="s_w">Peiraeus'</span> 
+                        <span class="alpheios-aligned-word" id="s956_w23" nrefs="s956_w19">son</span> 
+                        <span class="alpheios-aligned-word" id="s956_w24" nrefs="s956_w20">Ptolemaeus</span>, <span class="alpheios-aligned-word" id="s956_w26" nrefs="s956_w15">kept</span> 
+                        <span class="alpheios-aligned-word" id="s956_w27" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s956_w28" nrefs="s956_w16">snorting</span> 
+                        <span class="alpheios-aligned-word" id="s956_w29" nrefs="s_w">steeds</span> 
+                        <span class="alpheios-aligned-word" id="s956_w30" nrefs="s_w">withdrawn</span> 
+                        <span class="alpheios-aligned-word" id="s956_w31" nrefs="s956_w14">apart</span>; <span class="alpheios-aligned-word" id="s956_w33" nrefs="s_w">and</span> 
+                        <span class="alpheios-aligned-word" id="s956_w34" nrefs="s956_w22 s956_w23 s956_w24">straitly</span> 
+                        <span class="alpheios-aligned-word" id="s956_w35" nrefs="s_w">did</span> 
+                        <span class="alpheios-aligned-word" id="s956_w36" nrefs="s_w">Agamemnon</span> 
+                        <span class="alpheios-aligned-word" id="s956_w37" nrefs="s956_w25">charge</span> 
+                        <span class="alpheios-aligned-word" id="s956_w38" nrefs="s_w">him</span> 
+                        <span class="alpheios-aligned-word" id="s956_w39" nrefs="s_w">to</span> 
+                        <span class="alpheios-aligned-word" id="s956_w40" nrefs="s_w">have</span> 
+                        <span class="alpheios-aligned-word" id="s956_w41" nrefs="s956_w26">them</span> 
+                        <span class="alpheios-aligned-word" id="s956_w42" nrefs="s_w">at</span> 
+                        <span class="alpheios-aligned-word" id="s956_w43" nrefs="s_w">hand</span>, <span class="alpheios-aligned-word" id="s956_w45" nrefs="s956_w27">whenever</span>
+                        
+         <div class="milestone line" id="m230"></div>
+                        <span class="alpheios-aligned-word" id="s956_w46" nrefs="s956_w32">weariness</span> 
+                        <span class="alpheios-aligned-word" id="s956_w47" nrefs="s956_w28">should</span> 
+                        <span class="alpheios-aligned-word" id="s956_w48" nrefs="s_w">come</span> 
+                        <span class="alpheios-aligned-word" id="s956_w49" nrefs="s_w">upon</span> 
+                        <span class="alpheios-aligned-word" id="s956_w50" nrefs="s_w">his</span> 
+                        <span class="alpheios-aligned-word" id="s956_w51" nrefs="s956_w30">limbs</span>, <span class="alpheios-aligned-word" id="s956_w53" nrefs="s_w">as</span> 
+                        <span class="alpheios-aligned-word" id="s956_w54" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s956_w55" nrefs="s_w">gave</span> 
+                        <span class="alpheios-aligned-word" id="s956_w56" nrefs="s_w">commands</span> 
+                        <span class="alpheios-aligned-word" id="s956_w57" nrefs="s956_w34">throughout</span> 
+                        <span class="alpheios-aligned-word" id="s956_w58" nrefs="s_w">all</span> 
+                        <span class="alpheios-aligned-word" id="s956_w59" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s956_w60" nrefs="s956_w35">host</span>; <span class="alpheios-aligned-word" id="s957_w1" nrefs="s957_w1">but</span> 
+                        <span class="alpheios-aligned-word" id="s957_w2" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s957_w3" nrefs="s_w">himself</span> 
+                        <span class="alpheios-aligned-word" id="s957_w4" nrefs="s957_w4 s957_w5">ranged</span> 
+                        <span class="alpheios-aligned-word" id="s957_w5" nrefs="s_w">on</span> 
+                        <span class="alpheios-aligned-word" id="s957_w6" nrefs="s957_w3">foot</span> 
+                        <span class="alpheios-aligned-word" id="s957_w7" nrefs="s_w">through</span> 
+                        <span class="alpheios-aligned-word" id="s957_w8" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s957_w9" nrefs="s957_w6">ranks</span> 
+                        <span class="alpheios-aligned-word" id="s957_w10" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s957_w11" nrefs="s957_w7">warriors</span>. <span class="alpheios-aligned-word" id="s958_w1" nrefs="s958_w1">And</span> 
+                        <span class="alpheios-aligned-word" id="s958_w2" nrefs="s958_w2">whomsoever</span> 
+                        <span class="alpheios-aligned-word" id="s958_w3" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s958_w4" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s958_w5" nrefs="s958_w7">Danaans</span> 
+                        <span class="alpheios-aligned-word" id="s958_w6" nrefs="s_w">with</span> 
+                        <span class="alpheios-aligned-word" id="s958_w7" nrefs="s_w">swift</span> 
+                        <span class="alpheios-aligned-word" id="s958_w8" nrefs="s958_w8">steeds</span> 
+                        <span class="alpheios-aligned-word" id="s958_w9" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s958_w10" nrefs="s958_w6">saw</span> 
+                        <span class="alpheios-aligned-word" id="s958_w11" nrefs="s958_w5">eager</span>, <span class="alpheios-aligned-word" id="s958_w13" nrefs="s_w">to</span> 
+                        <span class="alpheios-aligned-word" id="s958_w14" nrefs="s958_w3">these</span> 
+                        <span class="alpheios-aligned-word" id="s958_w15" nrefs="s_w">would</span> 
+                        <span class="alpheios-aligned-word" id="s958_w16" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s958_w17" nrefs="s_w">draw</span> 
+                        <span class="alpheios-aligned-word" id="s958_w18" nrefs="s958_w11">nigh</span>, <span class="alpheios-aligned-word" id="s958_w20" nrefs="s_w">and</span> 
+                        <span class="alpheios-aligned-word" id="s958_w21" nrefs="s958_w12 s958_w13">hearten</span> 
+                        <span class="alpheios-aligned-word" id="s958_w22" nrefs="s_w">them</span> 
+                        <span class="alpheios-aligned-word" id="s958_w23" nrefs="s_w">earnestly</span>, <span class="alpheios-aligned-word" id="s958_w25" nrefs="s958_w14">saying</span>:
+         <blockquote class="quote">
+            <p>
+                                 <span class="alpheios-aligned-word" id="s959_w1" nrefs="s_w">Ye</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w2" nrefs="s959_w1">Argives</span>, <span class="alpheios-aligned-word" id="s959_w4" nrefs="s959_w5">relax</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w5" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w6" nrefs="s959_w2">no</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w7" nrefs="s959_w3">whit</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w8" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w9" nrefs="s_w">your</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w10" nrefs="s959_w6">furious</span> 
+                                 <span class="alpheios-aligned-word" id="s959_w11" nrefs="s959_w7">valour</span>;
+               <div class="milestone line" id="m235"></div>
+                                 <span class="alpheios-aligned-word" id="s960_w1" nrefs="s960_w2">for</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w2" nrefs="s960_w5">father</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w3" nrefs="s960_w6">Zeus</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w4" nrefs="s_w">will</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w5" nrefs="s960_w7">be</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w6" nrefs="s_w">no</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w7" nrefs="s960_w8">helper</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w8" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w9" nrefs="s960_w4">lies</span>; <span class="alpheios-aligned-word" id="s960_w11" nrefs="s960_w10">nay</span>, <span class="alpheios-aligned-word" id="s960_w13" nrefs="s_w">they</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w14" nrefs="s_w">that</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w15" nrefs="s_w">were</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w16" nrefs="s960_w11">the</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w17" nrefs="s960_w13">first</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w18" nrefs="s_w">to</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w19" nrefs="s_w">work</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w20" nrefs="s_w">violence</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w21" nrefs="s_w">in</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w22" nrefs="s960_w16">defiance</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w23" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w24" nrefs="s_w">their</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w25" nrefs="s960_w15">oaths</span>, <span class="alpheios-aligned-word" id="s960_w27" nrefs="s960_w19">their</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w28" nrefs="s960_w20">tender</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w29" nrefs="s960_w21">flesh</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w30" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w31" nrefs="s_w">a</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w32" nrefs="s960_w18">surety</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w33" nrefs="s_w">shall</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w34" nrefs="s960_w22">vultures</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w35" nrefs="s960_w23">devour</span>, <span class="alpheios-aligned-word" id="s960_w37" nrefs="s_w">and</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w38" nrefs="s960_w25">we</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w39" nrefs="s_w">shall</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w40" nrefs="s_w">bear</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w41" nrefs="s960_w33">away</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w42" nrefs="s960_w34">in</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w43" nrefs="s_w">our</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w44" nrefs="s960_w35">ships</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w45" nrefs="s_w">their</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w46" nrefs="s960_w29">dear</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w47" nrefs="s960_w27">wives</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w48" nrefs="s960_w30">and</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w49" nrefs="s960_w31">little</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w50" nrefs="s960_w32">children</span>, <span class="alpheios-aligned-word" id="s960_w52" nrefs="s960_w37">when</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w53" nrefs="s_w">we</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w54" nrefs="s_w">shall</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w55" nrefs="s_w">have</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w56" nrefs="s960_w39">taken</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w57" nrefs="s_w">their</span> 
+                                 <span class="alpheios-aligned-word" id="s960_w58" nrefs="s960_w38">citadel</span>.
+            </p>
+         </blockquote>
+                        
+         <div class="milestone line" id="m240"></div>
+                        <span class="alpheios-aligned-word" id="s961_w1" nrefs="s_w">And</span> 
+                        <span class="alpheios-aligned-word" id="s961_w2" nrefs="s961_w1">whomsoever</span> 
+                        <span class="alpheios-aligned-word" id="s961_w3" nrefs="s961_w3">again</span> 
+                        <span class="alpheios-aligned-word" id="s961_w4" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s961_w5" nrefs="s961_w5">saw</span> 
+                        <span class="alpheios-aligned-word" id="s961_w6" nrefs="s_w">holding</span> 
+                        <span class="alpheios-aligned-word" id="s961_w7" nrefs="s_w">back</span> 
+                        <span class="alpheios-aligned-word" id="s961_w8" nrefs="s_w">from</span> 
+                        <span class="alpheios-aligned-word" id="s961_w9" nrefs="s961_w6">hateful</span> 
+                        <span class="alpheios-aligned-word" id="s961_w10" nrefs="s961_w7">war</span>, <span class="alpheios-aligned-word" id="s961_w12" nrefs="s_w">them</span> 
+                        <span class="alpheios-aligned-word" id="s961_w13" nrefs="s_w">would</span> 
+                        <span class="alpheios-aligned-word" id="s961_w14" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s961_w15" nrefs="s961_w10 s961_w11">chide</span> 
+                        <span class="alpheios-aligned-word" id="s961_w16" nrefs="s_w">roundly</span> 
+                        <span class="alpheios-aligned-word" id="s961_w17" nrefs="s_w">with</span> 
+                        <span class="alpheios-aligned-word" id="s961_w18" nrefs="s961_w12">angry</span> 
+                        <span class="alpheios-aligned-word" id="s961_w19" nrefs="s961_w13">words</span>:
+         <blockquote class="quote">
+            <p>
+                                 <span class="alpheios-aligned-word" id="s962_w1" nrefs="s_w">Ye</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w2" nrefs="s962_w1">Argives</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w3" nrefs="s_w">that</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w4" nrefs="s_w">rage</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w5" nrefs="s_w">with</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w6" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w7" nrefs="s_w">bow</span>, <span class="alpheios-aligned-word" id="s962_w9" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w10" nrefs="s_w">men</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w11" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w12" nrefs="s962_w2">dishonour</span>,<span id="Note6"></span> [: 171.1]
+                                 <span class="alpheios-aligned-word" id="s962_w14" nrefs="s_w">have</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w15" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w16" nrefs="s962_w4">no</span> 
+                                 <span class="alpheios-aligned-word" id="s962_w17" nrefs="s962_w3">shame</span>? <span class="alpheios-aligned-word" id="s963_w1" nrefs="s963_w1">Why</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w2" nrefs="s_w">is</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w3" nrefs="s_w">it</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w4" nrefs="s_w">that</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w5" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w6" nrefs="s963_w3">stand</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w7" nrefs="s963_w2">thus</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w8" nrefs="s963_w4">dazed</span>, <span class="alpheios-aligned-word" id="s963_w10" nrefs="s_w">like</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w11" nrefs="s963_w6">fawns</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w12" nrefs="s_w">that</span>, <span class="alpheios-aligned-word" id="s963_w14" nrefs="s963_w10">when</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w15" nrefs="s_w">they</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w16" nrefs="s_w">have</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w17" nrefs="s_w">grown</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w18" nrefs="s963_w12">weary</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w19" nrefs="s_w">with</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w20" nrefs="s963_w15">running</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w21" nrefs="s_w">over</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w22" nrefs="s963_w5">a</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w23" nrefs="s963_w13">wide</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w24" nrefs="s963_w14">plain</span>,
+               <div class="milestone line" id="m245"></div>
+                                 <span class="alpheios-aligned-word" id="s963_w26" nrefs="s963_w16">stand</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w27" nrefs="s_w">still</span>, <span class="alpheios-aligned-word" id="s963_w29" nrefs="s_w">and</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w30" nrefs="s_w">in</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w31" nrefs="s963_w21">their</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w32" nrefs="s963_w23">hearts</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w33" nrefs="s_w">is</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w34" nrefs="s963_w18">no</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w35" nrefs="s963_w25">valour</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w36" nrefs="s_w">found</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w37" nrefs="s_w">at</span> 
+                                 <span class="alpheios-aligned-word" id="s963_w38" nrefs="s_w">all</span>? <span class="alpheios-aligned-word" id="s964_w1" nrefs="s964_w1">Even</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w2" nrefs="s_w">so</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w3" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w4" nrefs="s964_w3">stand</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w5" nrefs="s964_w4">dazed</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w6" nrefs="s_w">and</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w7" nrefs="s964_w6">fight</span> 
+                                 <span class="alpheios-aligned-word" id="s964_w8" nrefs="s964_w5">not</span>. <span class="alpheios-aligned-word" id="s965_w1" nrefs="s965_w1">Is</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w2" nrefs="s_w">it</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w3" nrefs="s_w">that</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w4" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w5" nrefs="s965_w2">wait</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w6" nrefs="s_w">for</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w7" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w8" nrefs="s965_w3">Trojans</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w9" nrefs="s_w">to</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w10" nrefs="s965_w5">come</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w11" nrefs="s965_w4">near</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w12" nrefs="s965_w6">where</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w13" nrefs="s965_w10">your</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w14" nrefs="s965_w8">ships</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w15" nrefs="s_w">with</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w16" nrefs="s_w">stately</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w17" nrefs="s_w">sterns</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w18" nrefs="s_w">are</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w19" nrefs="s965_w9">drawn</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w20" nrefs="s_w">up</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w21" nrefs="s965_w12">on</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w22" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w23" nrefs="s965_w13">shore</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w24" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w25" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w26" nrefs="s965_w11">grey</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w27" nrefs="s965_w14">sea</span>, <span class="alpheios-aligned-word" id="s965_w29" nrefs="s_w">that</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w30" nrefs="s_w">ye</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w31" nrefs="s965_w16">may</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w32" nrefs="s965_w17">know</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w33" nrefs="s965_w18">if</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w34" nrefs="s965_w19">haply</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w35" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w36" nrefs="s_w">son</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w37" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w38" nrefs="s965_w23">Cronos</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w39" nrefs="s965_w20">will</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w40" nrefs="s965_w21">stretch</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w41" nrefs="s_w">forth</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w42" nrefs="s_w">his</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w43" nrefs="s965_w22">arm</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w44" nrefs="s_w">over</span> 
+                                 <span class="alpheios-aligned-word" id="s965_w45" nrefs="s_w">you</span>?
+            </p>
+         </blockquote>
+                        
+         <div class="milestone line" id="m250"></div>
+                        <span class="alpheios-aligned-word" id="s966_w1" nrefs="s966_w1">Thus</span> 
+                        <span class="alpheios-aligned-word" id="s966_w2" nrefs="s966_w4 s966_w5">ranged</span> 
+                        <span class="alpheios-aligned-word" id="s966_w3" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s966_w4" nrefs="s_w">giving</span> 
+                        <span class="alpheios-aligned-word" id="s966_w5" nrefs="s_w">his</span> 
+                        <span class="alpheios-aligned-word" id="s966_w6" nrefs="s_w">commands</span> 
+                        <span class="alpheios-aligned-word" id="s966_w7" nrefs="s_w">through</span> 
+                        <span class="alpheios-aligned-word" id="s966_w8" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s966_w9" nrefs="s966_w6">ranks</span> 
+                        <span class="alpheios-aligned-word" id="s966_w10" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s966_w11" nrefs="s966_w7">warriors</span>; <span class="alpheios-aligned-word" id="s967_w1" nrefs="s_w">and</span> 
+                        <span class="alpheios-aligned-word" id="s967_w2" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s967_w3" nrefs="s967_w1">came</span> 
+                        <span class="alpheios-aligned-word" id="s967_w4" nrefs="s967_w3">to</span> 
+                        <span class="alpheios-aligned-word" id="s967_w5" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s967_w6" nrefs="s967_w4">Cretans</span> 
+                        <span class="alpheios-aligned-word" id="s967_w7" nrefs="s967_w5">as</span> 
+                        <span class="alpheios-aligned-word" id="s967_w8" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s967_w9" nrefs="s_w">fared</span> 
+                        <span class="alpheios-aligned-word" id="s967_w10" nrefs="s967_w6">through</span> 
+                        <span class="alpheios-aligned-word" id="s967_w11" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s967_w12" nrefs="s967_w7">throng</span> 
+                        <span class="alpheios-aligned-word" id="s967_w13" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s967_w14" nrefs="s967_w8">men</span>. <span class="alpheios-aligned-word" id="s968_w1" nrefs="s968_w1">These</span> 
+                        <span class="alpheios-aligned-word" id="s968_w2" nrefs="s_w">were</span> 
+                        <span class="alpheios-aligned-word" id="s968_w3" nrefs="s968_w6">arming</span> 
+                        <span class="alpheios-aligned-word" id="s968_w4" nrefs="s_w">them</span> 
+                        <span class="alpheios-aligned-word" id="s968_w5" nrefs="s_w">for</span> 
+                        <span class="alpheios-aligned-word" id="s968_w6" nrefs="s_w">war</span> 
+                        <span class="alpheios-aligned-word" id="s968_w7" nrefs="s968_w3">around</span> 
+                        <span class="alpheios-aligned-word" id="s968_w8" nrefs="s_w">wise-hearted</span> <span class="alpheios-aligned-word" id="s968_w10" nrefs="s_w">wise-hearted</span> 
+                        <span class="alpheios-aligned-word" id="s968_w11" nrefs="s968_w4">Idomeneus</span>; <span class="alpheios-aligned-word" id="s969_w1" nrefs="s_w">and</span> 
+                        <span class="alpheios-aligned-word" id="s969_w2" nrefs="s969_w1">Idomeneus</span> 
+                        <span class="alpheios-aligned-word" id="s969_w3" nrefs="s969_w5">stood</span> 
+                        <span class="alpheios-aligned-word" id="s969_w4" nrefs="s969_w3">amid</span> 
+                        <span class="alpheios-aligned-word" id="s969_w5" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s969_w6" nrefs="s_w">foremost</span> 
+                        <span class="alpheios-aligned-word" id="s969_w7" nrefs="s969_w4">fighters</span> 
+                        <span class="alpheios-aligned-word" id="s969_w8" nrefs="s969_w6">like</span> 
+                        <span class="alpheios-aligned-word" id="s969_w9" nrefs="s_w">a</span> 
+                        <span class="alpheios-aligned-word" id="s969_w10" nrefs="s_w">wild</span> 
+                        <span class="alpheios-aligned-word" id="s969_w11" nrefs="s_w">boar</span> 
+                        <span class="alpheios-aligned-word" id="s969_w12" nrefs="s_w">in</span> 
+                        <span class="alpheios-aligned-word" id="s969_w13" nrefs="s969_w7">valour</span>, <span class="alpheios-aligned-word" id="s969_w15" nrefs="s969_w10">while</span> 
+                        <span class="alpheios-aligned-word" id="s969_w16" nrefs="s969_w9">Meriones</span> 
+                        <span class="alpheios-aligned-word" id="s969_w17" nrefs="s_w">was</span> 
+                        <span class="alpheios-aligned-word" id="s969_w18" nrefs="s_w">speeding</span> 
+                        <span class="alpheios-aligned-word" id="s969_w19" nrefs="s_w">on</span> 
+                        <span class="alpheios-aligned-word" id="s969_w20" nrefs="s_w">the</span> 
+                        <span class="alpheios-aligned-word" id="s969_w21" nrefs="s969_w13 s969_w14">hindmost</span> 
+                        <span class="alpheios-aligned-word" id="s969_w22" nrefs="s969_w15">battalions</span>.
+         <div class="milestone line" id="m255"></div>
+                        <span class="alpheios-aligned-word" id="s970_w1" nrefs="s_w">At</span> 
+                        <span class="alpheios-aligned-word" id="s970_w2" nrefs="s970_w3">sight</span> 
+                        <span class="alpheios-aligned-word" id="s970_w3" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s970_w4" nrefs="s_w">them</span> 
+                        <span class="alpheios-aligned-word" id="s970_w5" nrefs="s970_w7">Agamemnon</span>, <span class="alpheios-aligned-word" id="s970_w7" nrefs="s970_w5">king</span> 
+                        <span class="alpheios-aligned-word" id="s970_w8" nrefs="s_w">of</span> 
+                        <span class="alpheios-aligned-word" id="s970_w9" nrefs="s970_w6">men</span>, <span class="alpheios-aligned-word" id="s970_w11" nrefs="s_w">waxed</span> 
+                        <span class="alpheios-aligned-word" id="s970_w12" nrefs="s970_w4">glad</span>, <span class="alpheios-aligned-word" id="s970_w14" nrefs="s_w">and</span> 
+                        <span class="alpheios-aligned-word" id="s970_w15" nrefs="s970_w9">forthwith</span> 
+                        <span class="alpheios-aligned-word" id="s970_w16" nrefs="s_w">he</span> 
+                        <span class="alpheios-aligned-word" id="s970_w17" nrefs="s970_w12">spake</span> 
+                        <span class="alpheios-aligned-word" id="s970_w18" nrefs="s_w">to</span> 
+                        <span class="alpheios-aligned-word" id="s970_w19" nrefs="s970_w11">Idomeneus</span> 
+                        <span class="alpheios-aligned-word" id="s970_w20" nrefs="s_w">with</span> 
+                        <span class="alpheios-aligned-word" id="s970_w21" nrefs="s970_w13">gentle</span> 
+                        <span class="alpheios-aligned-word" id="s970_w22" nrefs="s_w">words</span>:
+         <blockquote class="quote">
+            <p>
+                                 <span class="alpheios-aligned-word" id="s971_w1" nrefs="s971_w1">Idomeneus</span>, <span class="alpheios-aligned-word" id="s971_w3" nrefs="s_w">beyond</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w4" nrefs="s_w">all</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w5" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w6" nrefs="s971_w6">Danaans</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w7" nrefs="s_w">with</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w8" nrefs="s_w">swift</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w9" nrefs="s971_w7">steeds</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w10" nrefs="s_w">do</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w11" nrefs="s971_w4">I</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w12" nrefs="s_w">show</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w13" nrefs="s971_w5">honour</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w14" nrefs="s_w">to</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w15" nrefs="s_w">thee</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w16" nrefs="s971_w8">both</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w17" nrefs="s971_w9">in</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w18" nrefs="s971_w10">war</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w19" nrefs="s971_w11">and</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w20" nrefs="s971_w13">in</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w21" nrefs="s971_w14">tasks</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w22" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w23" nrefs="s_w">other</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w24" nrefs="s_w">sort</span>, <span class="alpheios-aligned-word" id="s971_w26" nrefs="s971_w15">and</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w27" nrefs="s971_w16">at</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w28" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w29" nrefs="s971_w17">feast</span>, <span class="alpheios-aligned-word" id="s971_w31" nrefs="s971_w19">when</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w32" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w33" nrefs="s971_w20">chieftains</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w34" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w35" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w36" nrefs="s971_w25">Argives</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w37" nrefs="s_w">let</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w38" nrefs="s971_w26">mingle</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w39" nrefs="s971_w28">in</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w40" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w41" nrefs="s971_w29">bowl</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w42" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w43" nrefs="s971_w22 s971_w23">flaming</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w44" nrefs="s971_w24">wine</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w45" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w46" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s971_w47" nrefs="s971_w30">elders</span>.
+               <div class="milestone line" id="m260"></div>
+                                 <span class="alpheios-aligned-word" id="s972_w1" nrefs="s_w">For</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w2" nrefs="s_w">even</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w3" nrefs="s972_w2">though</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w4" nrefs="s_w">the</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w5" nrefs="s972_w5">other</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w6" nrefs="s972_w7 s972_w8">long-haired</span> <span class="alpheios-aligned-word" id="s972_w8" nrefs="s972_w7 s972_w8">long-haired</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w9" nrefs="s972_w9">Achaeans</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w10" nrefs="s972_w11">drink</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w11" nrefs="s_w">an</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w12" nrefs="s_w">allotted</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w13" nrefs="s_w">portion</span>, <span class="alpheios-aligned-word" id="s972_w15" nrefs="s972_w13">thy</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w16" nrefs="s972_w15 s972_w16">cup</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w17" nrefs="s972_w10">standeth</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w18" nrefs="s972_w17">ever</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w19" nrefs="s_w">full</span>, <span class="alpheios-aligned-word" id="s972_w21" nrefs="s972_w21">even</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w22" nrefs="s_w">as</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w23" nrefs="s_w">for</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w24" nrefs="s972_w22">mine</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w25" nrefs="s_w">own</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w26" nrefs="s_w">self</span>, <span class="alpheios-aligned-word" id="s972_w28" nrefs="s_w">to</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w29" nrefs="s972_w24">drink</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w30" nrefs="s972_w25">whensoever</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w31" nrefs="s_w">thy</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w32" nrefs="s972_w26">heart</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w33" nrefs="s972_w27">biddeth</span> 
+                                 <span class="alpheios-aligned-word" id="s972_w34" nrefs="s_w">thee</span>. <span class="alpheios-aligned-word" id="s973_w1" nrefs="s973_w1">Come</span>, <span class="alpheios-aligned-word" id="s973_w3" nrefs="s973_w2">rouse</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w4" nrefs="s_w">thee</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w5" nrefs="s_w">for</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w6" nrefs="s973_w3">battle</span>, <span class="alpheios-aligned-word" id="s973_w8" nrefs="s973_w5">such</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w9" nrefs="s_w">a</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w10" nrefs="s_w">one</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w11" nrefs="s_w">as</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w12" nrefs="s_w">of</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w13" nrefs="s_w">old</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w14" nrefs="s_w">thou</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w15" nrefs="s973_w6">declaredst</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w16" nrefs="s973_w7">thyself</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w17" nrefs="s_w">to</span> 
+                                 <span class="alpheios-aligned-word" id="s973_w18" nrefs="s973_w8">be</span>.
+            </p>
+         </blockquote>
+                        
+         <div class="stdfooter " id="citation">
+            <hr></hr>
+            <div class="footer"></div>
+            <hr></hr>
+            <address>
+               <div class="rights_info">
+                  <p class="cc_rights">
+                               
+                                 This work is licensed under a
+                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                                 
+                             
+                  </p>
+               </div>
+               <!--
+	  Generated from odyssey using an XSLT version 1 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
+	  processed using SAXON 6.5.5 from Michael Kay
+	  on 2009-09-22T17:21:05-04:00-->
+            </address>
+         </div>
+         <div class="alpheios-ignore"></div>
+      </div>
+   </body>
+</html>

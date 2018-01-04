@@ -1,0 +1,181 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:html="http://www.w3.org/1999/xhtml" xml:lang="greek">
+   <!--THIS IS A GENERATED FILE. DO NOT EDIT (2)-->
+   <head>
+      <title>Alpheios:Apollodorus, Library and Epitome
+         (1.7.1)
+         
+         - Prometheus and the gift of fire 
+      </title>
+      <meta name="author" content="Apollodorus"></meta>
+      <meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets"></meta>
+      <meta name="DC.Title" content="Alpheios:Apollodorus, Library and Epitome&#xA;                        (1.7.1)&#xA;                    &#xA;                        - Prometheus and the gift of fire "></meta>
+      <meta name="DC.Type" content="Text"></meta>
+      <meta name="DC.Format" content="application/xhtml+xml"></meta>
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <meta name="alpheios-pedagogical-text" content="true"></meta>
+      <meta name="alpheios-treebank-url" content="http://repos.alpheios.net:8080/exist/rest/db/xq/treebank-getmorph.xq?f=1999.01.0021&amp;w=WORD"></meta>
+      <meta name="alpheios-treebank-diagram-url" content="version=1.0;http://repos.alpheios.net:8080/exist/rest/db/app/treebank-editsentence.xhtml?doc=1999.01.0021&amp;app=viewer&amp;id=SENTENCE&amp;w=WORD"></meta>
+      <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link rel="stylesheet" type="text/css" href="http://alpheios.net/alpheios-texts/site_menus/css/superfish.css"></link>
+      <link rel="shortcut icon" type="image/x-icon" href="http://alpheios.net/alpheios-texts/img/alpheios_16.png"></link><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/hoverIntent.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/superfish.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/js/alpheios-text.js"></script><script type="text/javascript">               
+                // document ready function
+                $(function(){
+                    alpheios_ready()
+                });                
+            </script></head>
+   <body id="TOP" onload="check_for_alpheios();">
+      <!--Start Alpheios Header-->
+      <div class="alpheios-ignore">
+         <div id="alph-page-header">
+            <div class="alpheios-version-text"><a href="http://alpheios.net/content/release-notes" title="View Release Notes" target="_blank"></a></div><a class="alpheios-logo" href="http://alpheios.net" alt="Alpheios"><img src="http://alpheios.net/alpheios-texts/img/alpheios.png"></img></a></div>
+         <div id="alph-toolbar" class="alpheios-toolbar">
+            <div id="alph-toolbar-main">
+               <ul class="sf-menu">
+                  <li class="current alpheios-toolbar-level-label"><a href="#">Mode</a></li>
+                  <li class="current alpheios-toolbar-level learner" alpheios-value="learner"><a href="#"><img src="http://alpheios.net/alpheios-texts/img/readinglearning_centerline.gif"></img></a></li>
+                  <li class="current alpheios-toolbar-level reader" alpheios-value="reader"><a href="#">&nbsp;</a></li>
+                  <li class="current alpheios-toolbar-translation"><a href="#">Translation</a></li>
+                  <li class="current alpheios-toolbar-inflect"><a href="#">Inflection<br></br>Tables</a></li>
+                  <li class="current alpheios-toolbar-grammar"><a href="#">Grammar</a></li>
+                  <li class="current alpheios-toolbar-usertools"><a href="#">User Tools</a><ul>
+                        <li class="current alpheios-toolbar-user-diagram"><a href="#">My Diagrams</a></li>
+                        <li class="current alpheios-toolbar-vocab"><a href="#">My Vocabulary</a></li>
+                     </ul>
+                  </li>
+                  <li class="current alpheios-toolbar-options"><a href="#">Options</a></li>
+                  <li class="current alpheios-toolbar-help-menu"><a href="#">Help</a><ul>
+                        <li class="current alpheios-toolbar-help"><a href="#">User Guide</a></li>
+                        <li class="current alpheios-toolbar-feedback"><a href="#">Send Feedback</a></li>
+                        <li class="current alpheios-toolbar-about"><a href="#">About</a></li>
+                     </ul>
+                  </li>
+               </ul>
+            </div>
+         </div>
+         <div class="alpheios-trigger-hint alpheios-hint"></div>
+         <div id="alpheios-current-level"><span alpheios-value="reader">Reading Mode</span><span alpheios-value="learner">Quiz Mode</span></div>
+         <ul id="alpheios-install-links">
+            <caption>Please install or update the following Firefox Extensions required for optimal use of this site:</caption>
+         </ul><br clear="all"></br><div id="header">
+            <div id="header_text">
+               <h1><span class="author">Apollodorus, </span><span class="title">Library and Epitome<span class="sectionid"> (1.7.1)</span><span class="subtitle"> - Prometheus and the gift of fire</span></span><a id="alph-citation-links" href="#citation" title="Citation"><img id="alph-citation-icon" src="http://alpheios.net/alpheios-texts/img/citation_static.gif" alt="Citation"></img></a></h1>
+            </div>
+         </div><br></br><div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interlinear-toggle">Show Interlinear Translation</label></div>
+      </div>
+      <!--End Alpheios Header-->
+      <div class="card" id="book1_card1.7.1">
+         <h2 class="institution"></h2>
+         <h2 class="department"></h2>
+         <div id="alph-trans-url" url="http://alpheios.net/alpheios-texts/Perseus.text.1999.01.0021/align/book1_card1.7.1.html"></div>
+                 
+         <div class="milestone chapter" id="m7"></div>
+                 
+         <div class="milestone section" id="m1"></div>
+                 
+         <p>
+                      <span class="alpheios-aligned-word" id="s94_w1" nrefs="s94_w1" tbref="17-1">&#928;&#961;&#959;&#956;&#951;&#952;&#949;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w2" nrefs="" tbref="17-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s94_w3" nrefs="s94_w4 s94_w5" tbref="17-3">&#7952;&#958;</span>
+                      <span class="alpheios-aligned-word" id="s94_w4" nrefs="s94_w6" tbref="17-4">&#8021;&#948;&#945;&#964;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w5" nrefs="s94_w7" tbref="17-5">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s94_w6" nrefs="s94_w8" tbref="17-6">&#947;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w7" nrefs="s94_w3" tbref="17-7">&#7936;&#957;&#952;&#961;&#974;&#960;&#959;&#965;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w8" nrefs="s94_w2" tbref="17-8">&#960;&#955;&#940;&#963;&#945;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w9" nrefs="s94_w10" tbref="17-9">&#7956;&#948;&#969;&#954;&#949;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s94_w10" nrefs="s94_w11" tbref="17-10">&#945;&#8016;&#964;&#959;&#8150;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w11" nrefs="s94_w12" tbref="17-11">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s94_w12" nrefs="s94_w13" tbref="17-12">&#960;&#8166;&#961;</span>, <span class="alpheios-aligned-word" id="s94_w14" nrefs="s94_w17" tbref="17-14">&#955;&#940;&#952;&#961;&#8115;</span>
+                      <span class="alpheios-aligned-word" id="s94_w15" nrefs="s94_w18 s94_w19" tbref="17-15">&#916;&#953;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s94_w16" nrefs="s94_w24" tbref="17-16">&#7952;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s94_w17" nrefs="s94_w28" tbref="17-17">&#957;&#940;&#961;&#952;&#951;&#954;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s94_w18" nrefs="s94_w21 s94_w22 s94_w23" tbref="17-18">&#954;&#961;&#973;&#968;&#945;&#962;</span>. <span class="alpheios-aligned-word" id="s95_w1" nrefs="s95_w2" tbref="18-1">&#8033;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s95_w2" nrefs="s95_w1" tbref="18-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s95_w3" nrefs="s95_w4" tbref="18-3">&#8084;&#963;&#952;&#949;&#964;&#959;</span>
+                      <span class="alpheios-aligned-word" id="s95_w4" nrefs="s95_w3" tbref="18-4">&#918;&#949;&#973;&#962;</span>, <span class="alpheios-aligned-word" id="s95_w6" nrefs="s95_w8 s95_w9" tbref="18-6">&#7952;&#960;&#941;&#964;&#945;&#958;&#949;&#957;</span>
+                      <span id="toc-pb-d0e1059"></span>
+                      <span class="alpheios-aligned-word" id="s95_w7" nrefs="s95_w10" tbref="18-7">&#7977;&#966;&#945;&#943;&#963;&#964;&#8179;</span>
+                      <span class="alpheios-aligned-word" id="s95_w8" nrefs="s95_w15 s95_w16 s95_w17" tbref="18-8">&#964;&#8183;</span>
+                      <span class="alpheios-aligned-word" id="s95_w9" nrefs="s95_w15 s95_w16 s95_w17" tbref="18-9">&#922;&#945;&#965;&#954;&#940;&#963;&#8179;</span>
+                      <span class="alpheios-aligned-word" id="s95_w10" nrefs="s95_w15 s95_w16 s95_w17" tbref="18-10">&#8004;&#961;&#949;&#953;</span>
+                      <span class="alpheios-aligned-word" id="s95_w11" nrefs="s95_w14" tbref="18-11">&#964;&#8056;</span>
+                      <span class="alpheios-aligned-word" id="s95_w12" nrefs="s95_w14" tbref="18-12">&#963;&#8182;&#956;&#945;</span>
+                      <span class="alpheios-aligned-word" id="s95_w13" nrefs="s95_w13" tbref="18-13">&#945;&#8016;&#964;&#959;&#8166;</span>
+                      <span class="alpheios-aligned-word" id="s95_w14" nrefs="s95_w11 s95_w12" tbref="18-14">&#960;&#961;&#959;&#963;&#951;&#955;&#8182;&#963;&#945;&#953;</span>: <span class="alpheios-aligned-word" id="s95_w16" nrefs="s95_w19" tbref="19-1">&#964;&#959;&#8166;&#964;&#959;</span>
+                      <span class="alpheios-aligned-word" id="s95_w17" nrefs="" tbref="19-2">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s95_w18" nrefs="s95_w21 s95_w22" tbref="19-3">&#931;&#954;&#965;&#952;&#953;&#954;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s95_w19" nrefs="s95_w23" tbref="19-4">&#8004;&#961;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s95_w20" nrefs="s95_w20" tbref="19-5">&#7952;&#963;&#964;&#943;&#957;</span>. <span class="alpheios-aligned-word" id="s96_w1" nrefs="s96_w1" tbref="20-1">&#7952;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s96_w2" nrefs="" tbref="20-2">&#948;&#8052;</span>
+                      <span class="alpheios-aligned-word" id="s96_w3" nrefs="s96_w2" tbref="20-3">&#964;&#959;&#973;&#964;&#8179;</span>
+                      <span class="alpheios-aligned-word" id="s96_w4" nrefs="s96_w4 s96_w5" tbref="20-4">&#960;&#961;&#959;&#963;&#951;&#955;&#969;&#952;&#949;&#8054;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s96_w5" nrefs="s96_w3" tbref="20-5">&#928;&#961;&#959;&#956;&#951;&#952;&#949;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s96_w6" nrefs="s96_w10" tbref="20-6">&#960;&#959;&#955;&#955;&#8182;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s96_w7" nrefs="s96_w11" tbref="20-7">&#7952;&#964;&#8182;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s96_w8" nrefs="" tbref="20-8">&#7936;&#961;&#953;&#952;&#956;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s96_w9" nrefs="s96_w7 s96_w8" tbref="20-9">&#7952;&#948;&#941;&#948;&#949;&#964;&#959;</span>: <span class="alpheios-aligned-word" id="s97_w1" nrefs="" tbref="21-1">&#954;&#945;&#952;&#8125;</span>
+                      <span class="alpheios-aligned-word" id="s97_w2" nrefs="s97_w1" tbref="21-2">&#7953;&#954;&#940;&#963;&#964;&#951;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w3" nrefs="" tbref="21-3">&#948;&#8050;</span>
+                      <span class="alpheios-aligned-word" id="s97_w4" nrefs="s97_w2" tbref="21-4">&#7969;&#956;&#941;&#961;&#945;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w5" nrefs="s97_w3 s97_w4" tbref="21-5">&#7936;&#949;&#964;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w6" nrefs="s97_w5" tbref="21-6">&#7952;&#966;&#953;&#960;&#964;&#940;&#956;&#949;&#957;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w7" nrefs="s97_w6 s97_w7" tbref="21-7">&#945;&#8016;&#964;&#8183;</span>
+                      <span class="alpheios-aligned-word" id="s97_w8" nrefs="s97_w10" tbref="21-8">&#964;&#959;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w9" nrefs="s97_w11" tbref="21-9">&#955;&#959;&#946;&#959;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w10" nrefs="s97_w9" tbref="21-10">&#7952;&#957;&#941;&#956;&#949;&#964;&#959;</span>
+                      <span class="alpheios-aligned-word" id="s97_w11" nrefs="s97_w12" tbref="21-11">&#964;&#959;&#8166;</span>
+                      <span class="alpheios-aligned-word" id="s97_w12" nrefs="s97_w14" tbref="21-12">&#7973;&#960;&#945;&#964;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w13" nrefs="s97_w17" tbref="21-13">&#945;&#8016;&#958;&#945;&#957;&#959;&#956;&#941;&#957;&#959;&#965;</span>
+                      <span class="alpheios-aligned-word" id="s97_w14" nrefs="s97_w18" tbref="21-14">&#948;&#953;&#8048;</span>
+                      <span class="alpheios-aligned-word" id="s97_w15" nrefs="s97_w19" tbref="21-15">&#957;&#965;&#954;&#964;&#972;&#962;</span>. <span class="alpheios-aligned-word" id="s97_w17" nrefs="" tbref="22-1">&#954;&#945;&#8054;</span>
+                      <span class="alpheios-aligned-word" id="s97_w18" nrefs="s97_w26" tbref="22-2">&#928;&#961;&#959;&#956;&#951;&#952;&#949;&#8058;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w19" nrefs="" tbref="22-3">&#956;&#8050;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w20" nrefs="s97_w32" tbref="22-4">&#960;&#965;&#961;&#8056;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w21" nrefs="s97_w30" tbref="22-5">&#954;&#955;&#945;&#960;&#941;&#957;&#964;&#959;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w22" nrefs="s97_w24" tbref="22-6">&#948;&#943;&#954;&#951;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w23" nrefs="s97_w27" tbref="22-7">&#7956;&#964;&#953;&#957;&#949;</span>
+                      <span class="alpheios-aligned-word" id="s97_w24" nrefs="s97_w21" tbref="22-8">&#964;&#945;&#973;&#964;&#951;&#957;</span>, <span class="alpheios-aligned-word" id="s97_w26" nrefs="s97_w33" tbref="22-10">&#956;&#941;&#967;&#961;&#953;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w27" nrefs="s97_w34" tbref="22-11">&#7977;&#961;&#945;&#954;&#955;&#8134;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w28" nrefs="s97_w37" tbref="22-12">&#945;&#8016;&#964;&#8056;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w29" nrefs="s97_w35" tbref="22-13">&#8021;&#963;&#964;&#949;&#961;&#959;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w30" nrefs="s97_w36" tbref="22-14">&#7956;&#955;&#965;&#963;&#949;&#957;</span>, <span class="alpheios-aligned-word" id="s97_w32" nrefs="s97_w39" tbref="22-16">&#8033;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w33" nrefs="s97_w43 s97_w44 s97_w45" tbref="22-17">&#7952;&#957;</span>
+                      <span class="alpheios-aligned-word" id="s97_w34" nrefs="s97_w43 s97_w44 s97_w45" tbref="22-18">&#964;&#959;&#8150;&#962;</span>
+                      <span class="alpheios-aligned-word" id="s97_w35" nrefs="s97_w43 s97_w44 s97_w45" tbref="22-19">&#954;&#945;&#952;&#8125;</span>
+                      <span class="alpheios-aligned-word" id="s97_w36" nrefs="s97_w46" tbref="22-20">&#7977;&#961;&#945;&#954;&#955;&#941;&#945;</span>
+                      <span class="alpheios-aligned-word" id="s97_w37" nrefs="s97_w40 s97_w41 s97_w42" tbref="22-21">&#948;&#951;&#955;&#974;&#963;&#959;&#956;&#949;&#957;</span>.
+                    
+         </p>
+                 
+         <div class="stdfooter alpheios-ignore" id="citation">
+            <hr></hr>
+            <div class="footer"></div>
+            <hr></hr>
+            <address> Apollodorus.
+               	<span class="source-desc">  Apollodorus, The Library, with an English Translation by Sir James George Frazer, F.B.A., F.R.S. in 2 Volumes.  Cambridge,
+                  MA, Harvard University Press; London, William Heinemann Ltd.  1921. Includes Frazer's notes.</span><div class="rights_info">
+                  <p class="cc_rights">
+                               
+                                 This work is licensed under a
+                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                                 
+                             
+                  </p>
+               </div>
+               <!--
+	  Generated from toc using an XSLT version 1 stylesheet
+	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
+	  processed using SAXON 6.5.5 from Michael Kay
+	  on 2010-02-12T14:23:31-05:00-->
+            </address>
+         </div>
+         <div class="alpheios-ignore">
+            <div class="perseus-funder">The Annenberg CPB/Project provided support for entering this text.</div>
+            <div class="perseus-publication">XML for this text provided by
+               		<span class="publisher">Trustees of Tufts University</span><span class="pubPlace">Medford, MA</span><span class="authority">Perseus Project</span></div>
+         </div>
+      </div>
+   </body>
+</html>
