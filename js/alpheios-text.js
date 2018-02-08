@@ -127,16 +127,6 @@ function check_for_alpheios(a_on_site)
         {
 	    return;
         }
-	if (navigator.userAgent.indexOf("Firefox") == -1 ||
-            navigator.userAgent.indexOf(FIREFOX_VERSION_TEST) == -1)
-        {
-            $("#alpheios-install-links").html(
-                 '<li><div class="error">' + 
-                 'The Alpheios tools currently require Firefox' + 
-                 ' plus the Alpheios Firefox extensions. Make a tax-deductible <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X96XCB66LLKMQ" alt="donate">donation</a> to help us add cross-browser support.</div></li>');
-            disable_alpheios();
-            return;
-        }
 	
 	var has_reader = false;
 	var needs_language = 
