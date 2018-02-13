@@ -218,7 +218,7 @@ function disable_alpheios()
 {
      // add the install link to the page and hide
      // the toolbar
-     $("#alpheios-install-links").css("display","block");
+     $("#alpheios-install-links").css("display","none");
      $("#alph-toolbar").css("display","none");
      $("#alpheios-current-level").css("display","none");
 }
