@@ -204,58 +204,12 @@ function check_for_alpheios(a_on_site)
 	var html;
 	if (sync_error)
 	{
-	    html = '<ul id="alpheios-install-links">' 
-	    + '<caption>Incompatible versions of the Alpheios Firefox Extensions are installed.<br/>' 
-	    + ' Please <a href="'  
-	    + ALPHEIOS_INSTALL_URL  
-	    + '" class="alpheios-site-link"> install the latest updates</a> of these extensions:.'  
-	    + '</caption>';
-	    html = html 
-		    + '<li>'  
-		    + ALPHEIOS_EXT_REQS['reader'].name
-		    + ' (Installed Version: ' 
-		    + installed_versions['reader'].installed
-		    + ')</li>';
-           for (var i=0; i<required_languages.length; i++)
-	   {
-                var a_lang = required_languages[i];
-		var name = ALPHEIOS_EXT_REQS[a_lang[0]].name;
-		var version = installed_versions[a_lang[0]].installed;
-		html = html 
-		    + '<li>'  
-		    + name  
-		    + ' (Installed Version: ' + version + ')</li>';
-	   }
-	   html = html + '</ul>';
-	   $("#alpheios-install-links").before(html).remove();
+	   html = "";
            disable_alpheios();
 	}
 	else if (xpis.length > 0)
         {
-	    var install_list = [];
-	    html = 
-		    '<ul id="alpheios-install-links">' + 
-		    '<caption>Please ' + 
-		    '<a href="' + ALPHEIOS_INSTALL_URL + '" ' + 
-		    'class="alpheios-site-link">install or update</a> ' +
-		    ' the following Firefox Extensions required for optimal use of this site</caption>';
-	    for (var i=0; i<xpis.length; i++)
-	    {
-		install_list.push(xpis[i].xpi);
-		html = html + '<li>' + xpis[i].details + '</li>';
-	    }
-	    html = html + '</ul>';
-	    $("#alpheios-install-links").before(html).remove();
-	    if (! a_on_site)
-	    {
-		    $("#alpheios-install-links a").click(
-		    function()
-		    {
-			installXpis(install_list);
-			return false;
-		    }
-		);
-	    }	
+	    html = "" ;
             disable_alpheios();
 	}
 }
