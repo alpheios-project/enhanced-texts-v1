@@ -29,7 +29,7 @@ var FIREFOX_VERSION_STRING = 'Firefox 3.x';
 
 var ALPHEIOS_INSTALL_URL = 'http://alpheios.net/content/installation';
 
-var ALPHEIOS_IDS = 
+var ALPHEIOS_IDS =
 {
     '{4816253c-3208-49d8-9557-0745a5508299}':'reader',
     '{0f1d7e06-6ce8-40b0-83f0-9783ee65ab9b}':'greek',
@@ -38,7 +38,7 @@ var ALPHEIOS_IDS =
 /**
  * Supported Alpheios extensions
  */
-var ALPHEIOS_EXT_REQS = 
+var ALPHEIOS_EXT_REQS =
 {
 	'reader': { name: 'Alpheios Basic Libraries',
 		    url: 'http://alpheios.net/xpi-install/alpheios-basic-latest.xpi',
@@ -60,7 +60,7 @@ var ALPHEIOS_EXT_REQS =
  * Mapping of possible xml language codes to the corresponding Alpheios
  * extension code (this should really be done by the Alpheios Reader extension
  */
-var ALPHEIOS_LANGUAGE_CODES = 
+var ALPHEIOS_LANGUAGE_CODES =
 {
 	'el': 'greek',
 	'grc': 'greek',
@@ -82,12 +82,12 @@ function alpheios_ready()
 	{
 	    $("head").append('<link href="../css/alpheios-text-mac.css" type="text/css" rel="stylesheet"');
 	}
-	
+
 }
 
 function getAlpheiosPackages()
 {
-    var pkgs = {};  
+    var pkgs = {};
     $("meta[name=_alpheios-installed-version]").each(
     function()
     {
@@ -111,7 +111,7 @@ function getAlpheiosPackages()
  * Note that this must be called upon load of the body tag, and not
  * from the jQuery document ready function because document ready is called
  * before the extension has time to insert the required metadata elements.
- * @param {Boolean} a_on_site flag to indicate whether or not we're on 
+ * @param {Boolean} a_on_site flag to indicate whether or not we're on
  *                          an alpheios-enabled site (in which case,
  *                          list the required extensions, with a single
  *                          link to the installation/download site)
@@ -127,9 +127,9 @@ function check_for_alpheios(a_on_site)
         {
 	    return;
         }
-	
+
 	var has_reader = false;
-	var needs_language = 
+	var needs_language =
                 $("#alpheios-require-language").attr("content") ||
 		document.documentElement.getAttribute("xml:lang") ||
 	        document.documentElement.getAttribute("lang");
@@ -148,7 +148,7 @@ function check_for_alpheios(a_on_site)
             }
 	}
 	// iterate through the metadata elements added to the page
-	// by the Alpheios Reader extension (if any) to see if the 
+	// by the Alpheios Reader extension (if any) to see if the
 	// required ones are installed
 	var installed_versions = getAlpheiosPackages();
 	var version_text = $(".alpheios-version-text");
@@ -167,18 +167,18 @@ function check_for_alpheios(a_on_site)
         // if we're missing any of the required extensions, add links
 	// to install them to the page, and hide the Alpheios toolbar
 	var xpis = [];
-   
+
 	var sync_error = false;
-	if (! (installed_versions.reader && 
+	if (! (installed_versions.reader &&
 	       installed_versions.reader.metRequirement))
-	{ 
+	{
 	    var info = getInstallInfo('reader');
 	    xpis.push(info)
 	}
         for (var i=0; i<required_languages.length; i++)
         {
             var a_lang = required_languages[i];
-	    if (! (installed_versions[a_lang[0]] && 
+	    if (! (installed_versions[a_lang[0]] &&
 		    installed_versions[a_lang[0]].metRequirement))
 	    {
 		var info = getInstallInfo(a_lang[0]);
@@ -202,15 +202,11 @@ function check_for_alpheios(a_on_site)
 	    }
         }
 	var html;
-	if (sync_error)
+	if (sync_error || xpis.length > 0)
 	{
 	   html = "";
-           disable_alpheios();
-	}
-	else if (xpis.length > 0)
-        {
-	    html = "" ;
-            disable_alpheios();
+     disable_alpheios();
+     new Alpheios.Embedded().activate();
 	}
 }
 
@@ -230,9 +226,9 @@ function disable_alpheios()
  * @return true if installed version meets requirement otherwise false
  * @param Boolean
  */
-function check_version(a_req_v,a_has_v) 
+function check_version(a_req_v,a_has_v)
 {
-    /** 
+    /**
      * this code implements only part of the logic
      * specified for the Mozilla Toolkit version format
      * see https://developer.mozilla.org/en/Toolkit_version_format
@@ -255,7 +251,7 @@ function check_version(a_req_v,a_has_v)
     for (var i=0; i<=req_parts.length; i++)
     {
          if (met_part > 0)
-         { 
+         {
              break;
          }
          if (met_part < 0)
@@ -263,11 +259,11 @@ function check_version(a_req_v,a_has_v)
              met_requirement = false;
              break;
          }
-       
+
          if (i == req_parts.length)
          {
              break;
-         } 
+         }
          if (req_parts[i] == '*')
          {
              continue;
@@ -279,16 +275,16 @@ function check_version(a_req_v,a_has_v)
          {
 
              met_part = 0;
-             var missing_part = j == 2 ? 'zzzzzzzzzzzzzzzz' : '0'; 
+             var missing_part = j == 2 ? 'zzzzzzzzzzzzzzzz' : '0';
              if (!req_part_match[j]) req_part_match[j]=missing_part;
              if (!has_part_match[j]) has_part_match[j]=missing_part;
 
              // first and third parts are numbers
              if (j==1 || j==3)
-             {  
+             {
                  req_part_match[j] = parseInt(req_part_match[j]);
                  has_part_match[j] = parseInt(has_part_match[j]);
-             
+
              }
              if (has_part_match[j] > req_part_match[j])
              {
@@ -302,10 +298,10 @@ function check_version(a_req_v,a_has_v)
              }
              // parts were equal so go on to next part
          }
-         
+
     }
     return met_requirement;
-    
+
 }
 
 /**
@@ -329,7 +325,7 @@ function getInstallInfo(a_tool)
  * Function to install the specified xpi file
  * @param {String} a_file xpi file url
  * @param {String} a_release name of the xpi file (for display during install)
- */ 
+ */
 function install_xpi(a_file,a_release) {
 	if (navigator.userAgent.indexOf("Firefox") == -1)
         {
@@ -348,7 +344,7 @@ function install_xpi(a_file,a_release) {
 function installXpis(a_xpis)
 {
     if (navigator.userAgent.indexOf("Firefox") == -1)
-    { 
+    {
 	alert("Firefox is required to install these browser extensions.");
         return;
     }
