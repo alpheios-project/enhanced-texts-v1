@@ -38091,8 +38091,10 @@ class Embedded {
                               data-selector: a CSS Selector string identifying the page elements for which Alpheios should be activated
                               data-trigger: the DOM event to which Alpheios functionality should be attached
    * @param {Document} doc - the parent document
+   * @param {Object} popupData - popup data overrides
+   * @param {Object} panelData - panel data overrides
    */
-  constructor (anchor = '#alpheios-main', doc = document) {
+  constructor (anchor = '#alpheios-main', doc = document, popupData = {}, panelData = {}) {
     this.anchor = anchor
     this.doc = doc
     this.state = new __WEBPACK_IMPORTED_MODULE_5__state__["a" /* default */]()
@@ -38104,6 +38106,8 @@ class Embedded {
     let template = { html: __WEBPACK_IMPORTED_MODULE_6__template_htmlf___default.a, panelId: 'alpheios-panel-embedded', popupId: 'alpheios-popup-embedded' }
     this.ui = new __WEBPACK_IMPORTED_MODULE_4_alpheios_components__["UIController"](this.state, this.options, this.resourceOptions, manifest,template)
     this.doc.body.addEventListener('Alpheios_Embedded_Check', event => { this.notifyExtension(event)})
+    Object.assign(this.ui.panel.panelData, panelData)
+    Object.assign(this.ui.popup.popupData, popupData)
   }
 
   notifyExtension(event) {
@@ -38129,7 +38133,7 @@ class Embedded {
     }
     console.log(elem.dataset)
     let selector = elem.dataset.selector
-    let trigger = elem.dataset.trigger
+    let trigger = elem.dataset.trigger.split(/,/)
     if (!selector || !trigger) {
       throw new Error(`anchor element ${this.anchor} must define both trigger and selector`)
     }
@@ -38138,7 +38142,9 @@ class Embedded {
       throw new Error(`activation element ${activateOn} is missing`)
     }
     for (let o of activateOn) {
-      o.addEventListener(trigger, event => { this.handler(event) })
+      for (let t of trigger) {
+        o.addEventListener(t, event => { this.handler(event) })
+      }
     }
   }
 
