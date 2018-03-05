@@ -2,27 +2,27 @@
  * Stylesheet for Alpheios Texts
  * Copyright 2008 Cantus Foundation
  * http://alpheios.net
- * 
+ *
  * This file is part of Alpheios.
- * 
+ *
  * Alpheios is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
- * 
+ *
  * Alpheios is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
- * 
+ *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
- 
+
 
 /**
  * General TEI Elements
- */ 
+ */
 body {
     font-family: Arial,sans-serif;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 div#header {
-    
+
     vertical-align: 40px;
     float: left;
     width: 100%;
@@ -146,7 +146,7 @@ div#header h4 {
 }
 
 /**
- * Styles for Perseus-Sourced texts 
+ * Styles for Perseus-Sourced texts
  */
 .perseus-funder,.perseus-publication {
     font-size: small;
@@ -202,7 +202,7 @@ a:hover {
     position: relative;
     font-size: small;
     text-align: right;
-    margin: .5em; 
+    margin: .5em;
     display: none;
 }
 
@@ -274,7 +274,7 @@ body[alpheios-level=learner] #alpheios-interlinear-parent {
 
 
 /**
- * Alpheios Application Interaction 
+ * Alpheios Application Interaction
  * Elements and Classes
  */
 .alpheios-highlight-parallel {
@@ -310,7 +310,7 @@ body[alpheios-level=learner] .alpheios-highlight-parallel {
 body[alpheios-level=learner] .alpheios-aligned-trans {
      visibility: hidden !important;
 }
- 
+
 .alpheios-word-wrap {
     display: inline;
     position: relative;
@@ -439,7 +439,7 @@ body[alpheios-level=learner] .alpheios-aligned-trans {
 
 .alpheios-toolbar-level.learner img {
          border: 0;
-	 width: 2px; 	 
+	 width: 2px;
 	 height: 23px;
 }
 
@@ -449,7 +449,7 @@ body[alpheios-level=learner] .alpheios-aligned-trans {
 }
 
 li.alpheios-toolbar-inflect {
-        line-height: 0.65; 
+        line-height: 0.65;
 }
 
 .alpheios-toolbar-level.learner {
@@ -522,11 +522,14 @@ li.alpheios-toolbar-inflect {
 
 }
 
-.alpheios-trigger-hint {
+.alpheios-trigger-hint, #alpheios-v2-hints {
 	margin-right: 1em;
 	float: right;
 	max-width: 50%;
+}
 
+#alpheios-v2-hints {
+  display: none;
 }
 
 .alpheios-hint {

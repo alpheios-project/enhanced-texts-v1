@@ -206,7 +206,7 @@ function check_for_alpheios(a_on_site)
 	{
 	   html = "";
      disable_alpheios();
-     new Alpheios.Embedded().activate();
+     new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
 	}
 }
 
@@ -217,6 +217,7 @@ function disable_alpheios()
      $("#alpheios-install-links").css("display","none");
      $("#alph-toolbar").css("display","none");
      $("#alpheios-current-level").css("display","none");
+     $("#alpheios-v2-hints").css("display","block");
 }
 
 /**
