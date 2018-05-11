@@ -1,0 +1,51 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.header {
+    border-bottom: 2px solid black;
+}
+
+.header .header_text {
+    margin-left: 1em;
+}
+
+
+.header h1 {
+    font-size: 110%;
+    margin: 2px auto;
+    display: block;
+    margin-top: 10px;
+    line-height: 1em;
+}
+
+.header h4 {
+    font-size: medium;
+    margin-top: 2px;
+}
+
+.aligned-translation {
+  visibility:hidden;
+  opacity: 0;
+  border: 1px solid #666666;
+  padding-left: 10px;
+  margin-right: 5px;
+}
+
+.aligned-translation.visible {
+  visibility:visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 1s linear;
+}
+
+.alpheios-aligned-word:after {
+  content: " ";
+}
+
+#alph-toolbar {
+  display: none;
+}
+
+#alph-toolbar-v2 {
+  display: none;
+}

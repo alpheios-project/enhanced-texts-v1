@@ -123,91 +123,90 @@ function check_for_alpheios(a_on_site)
 		a_on_site = true;
 	}
 
-        if ($("#alpheios-install-links").length == 0)
-        {
-	    return;
-        }
-
-	var has_reader = false;
-	var needs_language =
+  if ($("#alpheios-install-links").length > 0) {
+	   var has_reader = false;
+	    var needs_language =
                 $("#alpheios-require-language").attr("content") ||
-		document.documentElement.getAttribute("xml:lang") ||
-	        document.documentElement.getAttribute("lang");
-	// map the language code used for the page to the one used
-	// by Alpheios. TODO - eventually we should support multiple
-	// languages per page
-        var required_languages = [];
-        var lang_list = needs_language.split(/\s+/);
-        for (var i=0; i<lang_list.length; i++)
-        {
-            var a_lang = lang_list[i];
-   	    if (typeof ALPHEIOS_LANGUAGE_CODES[a_lang] == 'string')
-            {
-	        required_languages.push(
-                     [ALPHEIOS_LANGUAGE_CODES[a_lang],false]);
-            }
-	}
-	// iterate through the metadata elements added to the page
-	// by the Alpheios Reader extension (if any) to see if the
-	// required ones are installed
-	var installed_versions = getAlpheiosPackages();
-	var version_text = $(".alpheios-version-text");
-	if (installed_versions.reader &&
-	    installed_versions.reader.installed.match(/beta/i))
-	{
-	    $("a",version_text).text("Beta Version");
-	    version_text.css("display","block");
-	}
-	else if (installed_versions.reader &&
-		 installed_versions.reader.installed.match(/alpha/i))
-	{
-	    $("a",version_text).text("Alpha Version");
-	    version_text.css("display","block");
-	}
-        // if we're missing any of the required extensions, add links
-	// to install them to the page, and hide the Alpheios toolbar
-	var xpis = [];
+		              document.documentElement.getAttribute("xml:lang") ||
+	                 document.documentElement.getAttribute("lang");
+  	// map the language code used for the page to the one used
+  	// by Alpheios. TODO - eventually we should support multiple
+  	// languages per page
+          var required_languages = [];
+          var lang_list = needs_language.split(/\s+/);
+          for (var i=0; i<lang_list.length; i++)
+          {
+              var a_lang = lang_list[i];
+     	    if (typeof ALPHEIOS_LANGUAGE_CODES[a_lang] == 'string')
+              {
+  	        required_languages.push(
+                       [ALPHEIOS_LANGUAGE_CODES[a_lang],false]);
+              }
+  	}
+  	// iterate through the metadata elements added to the page
+  	// by the Alpheios Reader extension (if any) to see if the
+  	// required ones are installed
+  	var installed_versions = getAlpheiosPackages();
+  	var version_text = $(".alpheios-version-text");
+  	if (installed_versions.reader &&
+  	    installed_versions.reader.installed.match(/beta/i))
+  	{
+  	    $("a",version_text).text("Beta Version");
+  	    version_text.css("display","block");
+  	}
+  	else if (installed_versions.reader &&
+  		 installed_versions.reader.installed.match(/alpha/i))
+  	{
+  	    $("a",version_text).text("Alpha Version");
+  	    version_text.css("display","block");
+  	}
+          // if we're missing any of the required extensions, add links
+  	// to install them to the page, and hide the Alpheios toolbar
+  	var xpis = [];
 
-	var sync_error = false;
-	if (! (installed_versions.reader &&
-	       installed_versions.reader.metRequirement))
-	{
-	    var info = getInstallInfo('reader');
-	    xpis.push(info)
-	}
-        for (var i=0; i<required_languages.length; i++)
-        {
-            var a_lang = required_languages[i];
-	    if (! (installed_versions[a_lang[0]] &&
-		    installed_versions[a_lang[0]].metRequirement))
-	    {
-		var info = getInstallInfo(a_lang[0]);
-		xpis.push(info);
-	    }
-	    else
-	    {
-		var match_pairs = ALPHEIOS_EXT_REQS[a_lang[0]].reader_match;
-		for (var j=0; j<match_pairs.length; j++)
-		{
-		    var match_cond = match_pairs[j][0];
-		    var match_read = match_pairs[j][1];
-		    if (installed_versions[a_lang[0]].installed
-				    .match(new RegExp(match_cond)) &&
-			! installed_versions.reader.installed.match(match_read))
-		    {
-			sync_error = true;
-			break;
-		    }
-		}
-	    }
-        }
-	var html;
-	if (sync_error || xpis.length > 0)
-	{
+  	var sync_error = false;
+  	if (! (installed_versions.reader &&
+  	       installed_versions.reader.metRequirement))
+  	{
+  	    var info = getInstallInfo('reader');
+  	    xpis.push(info)
+  	}
+          for (var i=0; i<required_languages.length; i++)
+          {
+              var a_lang = required_languages[i];
+  	    if (! (installed_versions[a_lang[0]] &&
+  		    installed_versions[a_lang[0]].metRequirement))
+  	    {
+  		var info = getInstallInfo(a_lang[0]);
+  		xpis.push(info);
+  	    }
+  	    else
+  	    {
+  		var match_pairs = ALPHEIOS_EXT_REQS[a_lang[0]].reader_match;
+  		for (var j=0; j<match_pairs.length; j++)
+  		{
+  		    var match_cond = match_pairs[j][0];
+  		    var match_read = match_pairs[j][1];
+  		    if (installed_versions[a_lang[0]].installed
+  				    .match(new RegExp(match_cond)) &&
+  			! installed_versions.reader.installed.match(match_read))
+  		    {
+  			sync_error = true;
+  			break;
+  		    }
+  		}
+  	    }
+          }
+  	var html;
+   if (sync_error || xpis.length > 0) {
 	   html = "";
      disable_alpheios();
-     new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
-	}
+	 } else {
+     $("#alph-toolbar").show();
+   }
+ } else {
+    disable_alpheios();
+ }
 }
 
 function disable_alpheios()
@@ -218,6 +217,19 @@ function disable_alpheios()
      $("#alph-toolbar").css("display","none");
      $("#alpheios-current-level").css("display","none");
      $("#alpheios-v2-hints").css("display","block");
+     activate_alpheios_v2();
+}
+
+function activate_alpheios_v2()
+{
+  new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
+  $("#alph-toolbar-v2").css("display","block");
+  $("#alph-toolbar-v2 .alpheios-toolbar-translation").click(toggle_translation);
+}
+
+function toggle_translation() {
+  $(".aligned-translation").get(0).classList.toggle('visible');
+
 }
 
 /**
