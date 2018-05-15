@@ -224,11 +224,18 @@ function activate_alpheios_v2()
 {
   new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
   $("#alph-toolbar-v2").css("display","block");
-  $("#alph-toolbar-v2 .alpheios-toolbar-translation").click(toggle_translation);
+  $(".aligned-translation").get(0).classList.add('visible')
+  $(".alpheios-toolbar-v2-translation").click(toggle_translation);
 }
 
 function toggle_translation() {
-  $(".aligned-translation").get(0).classList.toggle('visible');
+  let elem = $(".aligned-translation").get(0)
+  elem.classList.toggle('visible');
+  if (elem.classList.contains('visible')) {
+    $(this).html('Close Translation')
+  } else {
+    $(this).html('View Translation')
+  }
 
 }
 

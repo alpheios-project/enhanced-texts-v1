@@ -48,4 +48,14 @@
 
 #alph-toolbar-v2 {
   display: none;
+  float: right;
+}
+
+#alph-toolbar-v2 a {
+  color: #3E8D9C;
+  text-decoration: none;
+}
+
+#alph-toolbar-v2 a.hover {
+  color: #5BC8DC;
 }
