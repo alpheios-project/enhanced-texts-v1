@@ -35,8 +35,7 @@
   padding-right: 1em;
   max-height: 98%;
   overflow-y: scroll;
-  line-height: 2em;
-  font-size: 130%;
+  line-height: 2.5em;
 }
 
 .aligned-translation .scrollable {
