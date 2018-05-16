@@ -1,6 +1,10 @@
 .wrapper {
     display: grid;
     grid-template-columns: 2fr 1fr;
+    grid-template-rows: auto, 200px;
+    grid-template-areas:
+      "content"
+      "footer";
     height: 100%;
     width: 100%;
     position: absolute;
@@ -75,4 +79,10 @@
 
 .wrapper .l {
   line-height: 2em;
+  grid-area: content;
+}
+
+.footer {
+    grid-area: footer;
+    grid-column: 1 / span 2;
 }

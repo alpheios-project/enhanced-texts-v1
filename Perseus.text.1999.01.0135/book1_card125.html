@@ -67,17 +67,20 @@
             <div id="header_text">
                <h1><span class="author">Ὅμηρος,</span> <span class="title">Ὀδύσσεια</span><a id="alph-citation-links" href="#citation" title="Citation"><img id="alph-citation-icon" src="http://alpheios.net/alpheios-texts/img/citation_static.gif" alt="Citation"></img></a></h1>
             </div>
-        <div id="alph-toolbar-v2">
-           <a class="alpheios-toolbar-v2-translation" href="#">Close Translation</a></button>
-         </div>
          </div><br></br><div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interlinear-toggle">Show Interlinear Translation</label></div>
       </div>
       <div class="alpheios-ignore alpheios-next-prev">
          <p class="right"><a class="navigation" href="book1_card80.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/prev.gif"></img></a><a class="navigation" href="book1_card178.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/next.gif"></img></a></p>
       </div>
+      <div id="alph-toolbar-v2">
+         <div id="aligned-text-cbx-container">
+            <input type="checkbox" id="aligned-text-cbx" checked/>
+            <label for="aligned-text-cbx">Translation</label>
+         </div>
+      </div>
       <!--End Alpheios Header-->
       <div class="wrapper">
-         <div class="card" id="aligned-text-grc" xml:lang="grc">
+         <div class="source-text card" id="aligned-text-grc" xml:lang="grc">
          <h2 class="institution"></h2>
          <h2 class="department"></h2>
          <div id="alph-trans-url" url="http://alpheios.net/alpheios-texts/Perseus.text.1999.01.0135/align/book1_card125.html"></div>
@@ -619,7 +622,8 @@
 
 
       </div>
-      <div class="card aligned-translation" id="aligned-text-eng">
+      <div class="aligned-translation" id="aligned-text-eng">
+         <div class="scrollable">
          <h2 class="institution"></h2>
          <h2 class="department"></h2>
 
@@ -1151,36 +1155,40 @@
                               <span class="alpheios-aligned-word" data-alpheios_align_word="s70_w61" nrefs="s70_w33" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s70_w33]">men</span>.&#8221;
          </p>
       </div>
-      </div>
-      <div class="alpheios-ignore alpheios-next-prev">
-         <p class="right"><a class="navigation" href="book1_card80.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/prev.gif"></img></a><a class="navigation" href="book1_card178.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/next.gif"></img></a></p>
-      </div>
-      <div class="stdfooter alpheios-ignore" id="citation">
-         <hr></hr>
-         <div class="footer"></div>
-         <hr></hr>
-         <address> Homer.
-            <span class="source-desc">   The Odyssey with an English Translation by A.T. Murray, PH.D. in two volumes.   Cambridge, MA., Harvard University Press;
-               London, William Heinemann, Ltd.  1919.   </span><div class="rights_info">
-                  <p class="cc_rights">
-
-                     This work is licensed under a
-                     <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
-
-
-                  </p>
-               </div>
-            <!--
+         </div>
+         <div class="footer">
+            <div class="alpheios-ignore alpheios-next-prev">
+               <p class="right"><a class="navigation" href="book1_card80.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/prev.gif"></img></a><a class="navigation" href="book1_card178.html"><img alt="" src="http://alpheios.net/alpheios-texts/img/next.gif"></img></a></p>
+            </div>
+            <div class="stdfooter alpheios-ignore" id="citation">
+               <hr></hr>
+               <div class="footer"></div>
+               <hr></hr>
+               <address> Homer.
+                  <span class="source-desc">   The Odyssey with an English Translation by A.T. Murray, PH.D. in two volumes.   Cambridge, MA., Harvard University Press;
+                     London, William Heinemann, Ltd.  1919.   </span><div class="rights_info">
+                        <p class="cc_rights">
+                           
+                           This work is licensed under a
+                           <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
+                           
+                           
+                        </p>
+                     </div>
+                  <!--
 	  Generated from toc using an XSLT version 1 stylesheet
 	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
 	  processed using SAXON 6.5.5 from Michael Kay
 	  on 2010-02-12T13:26:32-05:00-->
-         </address>
-      </div>
-      <div class="alpheios-ignore">
-         <div class="perseus-funder">The Annenberg CPB/Project provided support for entering this text.</div>
-         <div class="perseus-publication">XML for this text provided by
-            <span class="publisher">Trustees of Tufts University</span><span class="pubPlace">Medford, MA</span><span class="authority">Perseus Project</span></div>
+               </address>
+            </div>
+            <div class="alpheios-ignore">
+               <div class="perseus-funder">The Annenberg CPB/Project provided support for entering this text.</div>
+               <div class="perseus-publication">XML for this text provided by
+                  <span class="publisher">Trustees of Tufts University</span><span class="pubPlace">Medford, MA</span><span class="authority">Perseus Project</span></div>
+            </div>
+            
+         </div>
       </div>
    </body>
 </html>
