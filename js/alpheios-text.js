@@ -223,9 +223,9 @@ function disable_alpheios()
 function activate_alpheios_v2()
 {
   new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
-  $("#alph-toolbar-v2").css("display","block");
+  $("#alph-toolbar-v2").css("display","flex");
   $(".aligned-translation").get(0).classList.add('visible')
-  $(".alpheios-toolbar-v2-translation").click(toggle_translation);
+  $("#aligned-text-cbx").click(toggle_translation);
 }
 
 function toggle_translation() {

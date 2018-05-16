@@ -1,6 +1,9 @@
 .wrapper {
     display: grid;
     grid-template-columns: 2fr 1fr;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
 .header {
     border-bottom: 2px solid black;
@@ -25,11 +28,21 @@
 }
 
 .aligned-translation {
-  visibility:hidden;
+  direction: rtl;
   opacity: 0;
-  border: 1px solid #666666;
   padding-left: 10px;
-  margin-right: 5px;
+  margin: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-height: 100%;
+  overflow-y: scroll;
+  line-height: 2em;
+}
+
+.aligned-translation .scrollable {
+  direction: ltr;
+  visibility:hidden;
+  overflow:hidden;
 }
 
 .aligned-translation.visible {
@@ -37,6 +50,14 @@
   opacity: 1;
   transition: visibility 0s, opacity 1s linear;
 }
+
+
+.aligned-translation.visible .scrollable {
+  visibility:visible;
+  opacity: 1;
+  transition: visibility 0s, opacity 1s linear;
+}
+
 
 .alpheios-aligned-word:after {
   content: " ";
@@ -48,14 +69,11 @@
 
 #alph-toolbar-v2 {
   display: none;
-  float: right;
+  flex-direction: column;
+  align-items: flex-end;
+  align-content: flex-end;
 }
 
-#alph-toolbar-v2 a {
-  color: #3E8D9C;
-  text-decoration: none;
-}
-
-#alph-toolbar-v2 a.hover {
-  color: #5BC8DC;
+.wrapper .l {
+  line-height: 2em;
 }
