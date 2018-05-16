@@ -26,7 +26,6 @@
     font-size: medium;
     margin-top: 2px;
 }
-
 .aligned-translation {
   direction: rtl;
   opacity: 0;
@@ -37,6 +36,7 @@
   max-height: 98%;
   overflow-y: scroll;
   line-height: 2em;
+  font-size: 130%;
 }
 
 .aligned-translation .scrollable {
