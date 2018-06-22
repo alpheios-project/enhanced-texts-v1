@@ -17,15 +17,27 @@
       <meta name="alpheios-pedagogical-text" content="true"></meta>
       <meta name="alpheios-treebank-url" content="http://tools.alpheios.net/exist/rest/db/xq/treebank-getmorph.xq?f=aesop&amp;w=WORD"></meta>
       <meta name="alpheios-treebank-diagram-url" content="version=1.0;http://tools.alpheios.net/exist/rest/db/app/treebank-editsentence.xhtml?doc=aesop&amp;app=viewer&amp;id=SENTENCE&amp;w=WORD"></meta>
+      <meta name="alpheios-v2-treebank-url" data-alpheios_tb_src="https://alpheios.net/alpheios-treebanks/aesop.html?chunk=SENTENCE&amp;w=WORD"></meta>
       <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
-      <link rel="stylesheet" type="text/css" href="http://alpheios.net/alpheios-texts/site_menus/css/superfish.css"></link>
-      <link rel="shortcut icon" type="image/x-icon" href="http://alpheios.net/alpheios-texts/img/alpheios_16.png"></link><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/hoverIntent.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/superfish.js"></script><script type="text/javascript" src="http://alpheios.net/alpheios-texts/js/alpheios-text.js"></script><script type="text/javascript">               
+      <link href="../css/alpheios-text-v2.css" rel="stylesheet" type="text/css"></link>
+      <link rel="stylesheet" type="text/css" href="https://alpheios.net/alpheios-texts/site_menus/css/superfish.css"></link>
+      <link rel="shortcut icon" type="image/x-icon" href="https://alpheios.net/alpheios-texts/img/alpheios_16.png"></link>
+      <link rel="stylesheet" href="../embed-lib/style/style.min.css"/>
+      <link rel="stylesheet" href="../embed-lib/style/style-embedded.min.css"/>
+      <script src="../embed-lib/alpheios-embedded.js"></script>
+      <link rel="shortcut icon" type="image/x-icon" href="http://alpheios.net/alpheios-texts/img/alpheios_16.png"></link>
+      <script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script>
+      <script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/hoverIntent.js"></script>
+      <script type="text/javascript" src="http://alpheios.net/alpheios-texts/site_menus/js/superfish.js"></script>
+      <script type="text/javascript" src="http://alpheios.net/alpheios-texts/js/alpheios-text.js"></script>
+      <script type="text/javascript">               
                 // document ready function
                 $(function(){
                     alpheios_ready()
                 });                
             </script></head>
    <body id="TOP" onload="check_for_alpheios();">
+      <div id="alpheios-main" data-trigger="dblclick,touchend" data-selector=".alpheios-aligned-word"></div>
       <!--Start Alpheios Header-->
       <div class="alpheios-ignore">
          <div id="alph-page-header">
@@ -55,6 +67,7 @@
             </div>
          </div>
          <div class="alpheios-trigger-hint alpheios-hint"></div>
+         <div id="alpheios-v2-hints" class="alpheios-hint">Double-click on a word to access morphology, definitions, and diagrams.</div>
          <div id="alpheios-current-level"><span alpheios-value="reader">Reading Mode</span><span alpheios-value="learner">Quiz Mode</span></div>
          <ul id="alpheios-install-links">
             <caption>Please install or update the following Firefox Extensions required for optimal use of this site:</caption>
@@ -64,109 +77,176 @@
             </div>
          </div><br></br><div id="alpheios-interlinear-parent"><input class="alpheios-interlinear-toggle" id="alpheios-interlinear-toggle" type="checkbox"></input><label for="alpheios-interlinear-toggle">Show Interlinear Translation</label></div>
       </div>
+      <div id="alph-toolbar-v2">
+         <div id="aligned-text-cbx-container">
+            <input type="checkbox" id="aligned-text-cbx" checked/>
+            <label for="aligned-text-cbx">Translation</label>
+         </div>
+      </div>
       <!--End Alpheios Header-->
-      <div class="Poem" id="book1_poem20">
+      <div class="wrapper">
+      <div class="Poem" id="aligned-text-grc">
          <h2 class="institution"></h2>
          <h2 class="department"></h2>
          <div id="alph-trans-url" url="http://alpheios.net/alpheios-texts/Alpheios.text.Aesop.01/align/book1_poem20.html"></div>
                         
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w1" nrefs="s2_w1 s2_w2" tbrefs="6-1">&#914;&#959;&#951;&#955;&#940;&#964;&#951;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w2" nrefs="s2_w5 s2_w6" tbrefs="6-2">&#7941;&#956;&#945;&#958;&#945;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w3" nrefs="s2_w3 s2_w4" tbrefs="6-3">&#7974;&#947;&#949;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w4" nrefs="s2_w7" tbrefs="6-4">&#7952;&#954;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w5" nrefs="s2_w8 s2_w9" tbrefs="6-5">&#954;&#974;&#956;&#951;&#962;</span>.
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w1" nrefs="s2_w1 s2_w2" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w1],#aligned-text-eng *[data-alpheios_align_word=s2_w2]" tbrefs="6-1" data-alpheios_tb_ref="6-1">&#914;&#959;&#951;&#955;&#940;&#964;&#951;&#962;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w2" nrefs="s2_w5 s2_w6" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w5],#aligned-text-eng *[data-alpheios_align_word=s2_w6]" tbrefs="6-2" data-alpheios_tb_ref="6-2">&#7941;&#956;&#945;&#958;&#945;&#957;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w3" nrefs="s2_w3 s2_w4" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w3],#aligned-text-eng *[data-alpheios_align_word=s2_w4]" tbrefs="6-3" data-alpheios_tb_ref="6-3">&#7974;&#947;&#949;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w4" nrefs="s2_w7" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w7]" tbrefs="6-4" data-alpheios_tb_ref="6-4">&#7952;&#954;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w5" nrefs="s2_w8 s2_w9" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w8],#aligned-text-eng *[data-alpheios_align_word=s2_w9]" tbrefs="6-5" data-alpheios_tb_ref="6-5">&#954;&#974;&#956;&#951;&#962;</span>.
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w7" nrefs="s2_w12 s2_w13 s2_w14" tbrefs="7-1">&#964;&#8134;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w8" nrefs="s2_w11" tbrefs="7-2">&#948;&#8125;</span>
-                              <span class="alpheios-aligned-word" id="s2_w9" nrefs="s2_w12 s2_w13 s2_w14" tbrefs="7-3">&#7952;&#956;&#960;&#949;&#963;&#959;&#973;&#963;&#951;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w10" nrefs="s2_w15" tbrefs="7-4">&#949;&#7984;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w11" nrefs="s2_w16 s2_w18" tbrefs="7-5">&#966;&#940;&#961;&#945;&#947;&#947;&#945;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w12" nrefs="s2_w17" tbrefs="7-6">&#954;&#959;&#953;&#955;&#974;&#948;&#951;</span>,
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w7" nrefs="s2_w12 s2_w13 s2_w14" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w12],#aligned-text-eng *[data-alpheios_align_word=s2_w13],#aligned-text-eng *[data-alpheios_align_word=s2_w14]" tbrefs="7-1" data-alpheios_tb_ref="7-1">&#964;&#8134;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w8" nrefs="s2_w11" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w11]" tbrefs="7-2" data-alpheios_tb_ref="7-2">&#948;&#8125;</span>
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w9" nrefs="s2_w12 s2_w13 s2_w14" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w12],#aligned-text-eng *[data-alpheios_align_word=s2_w13],#aligned-text-eng *[data-alpheios_align_word=s2_w14]" tbrefs="7-3" data-alpheios_tb_ref="7-3">&#7952;&#956;&#960;&#949;&#963;&#959;&#973;&#963;&#951;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w10" nrefs="s2_w15" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w15]" tbrefs="7-4" data-alpheios_tb_ref="7-4">&#949;&#7984;&#962;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w11" nrefs="s2_w16 s2_w18" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w16],#aligned-text-eng *[data-alpheios_align_word=s2_w18]" tbrefs="7-5" data-alpheios_tb_ref="7-5">&#966;&#940;&#961;&#945;&#947;&#947;&#945;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w12" nrefs="s2_w17" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w17]" tbrefs="7-6" data-alpheios_tb_ref="7-6">&#954;&#959;&#953;&#955;&#974;&#948;&#951;</span>,
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w14" nrefs="s2_w21 s2_w22" tbrefs="7-8">&#948;&#941;&#959;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w15" nrefs="s2_w20" tbrefs="7-9">&#946;&#959;&#951;&#952;&#949;&#8150;&#957;</span>, <span class="alpheios-aligned-word" id="s2_w17" nrefs="s2_w24" tbrefs="7-11">&#945;&#8016;&#964;&#8056;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w18" nrefs="s2_w26" tbrefs="7-12">&#7936;&#961;&#947;&#8056;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w19" nrefs="s2_w25" tbrefs="7-13">&#949;&#7985;&#963;&#964;&#942;&#954;&#949;&#953;</span>,
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w14" nrefs="s2_w21 s2_w22" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w21],#aligned-text-eng *[data-alpheios_align_word=s2_w22]" tbrefs="7-8" data-alpheios_tb_ref="7-8">&#948;&#941;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w15" nrefs="s2_w20" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w20]" tbrefs="7-9" data-alpheios_tb_ref="7-9">&#946;&#959;&#951;&#952;&#949;&#8150;&#957;</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w17" nrefs="s2_w24" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w24]" tbrefs="7-11" data-alpheios_tb_ref="7-11">&#945;&#8016;&#964;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w18" nrefs="s2_w26" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w26]" tbrefs="7-12" data-alpheios_tb_ref="7-12">&#7936;&#961;&#947;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w19" nrefs="s2_w25" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w25]" tbrefs="7-13" data-alpheios_tb_ref="7-13">&#949;&#7985;&#963;&#964;&#942;&#954;&#949;&#953;</span>,
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w21" nrefs="s2_w29 s2_w30" tbrefs="7-15">&#964;&#8183;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w22" nrefs="s2_w27" tbrefs="7-16">&#948;&#8125;</span>
-                              <span class="alpheios-aligned-word" id="s2_w23" nrefs="s2_w29 s2_w30" tbrefs="7-17">&#7977;&#961;&#945;&#954;&#955;&#949;&#8150;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w24" nrefs="s2_w28" tbrefs="7-18">&#960;&#961;&#959;&#963;&#951;&#973;&#967;&#949;&#952;&#8125;</span>, <span class="alpheios-aligned-word" id="s2_w26" nrefs="s2_w32 s2_w34" tbrefs="7-20">&#8003;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w27" nrefs="s2_w33" tbrefs="7-21">&#956;&#972;&#957;&#959;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w28" nrefs="s2_w36" tbrefs="7-22">&#960;&#940;&#957;&#964;&#969;&#957;</span>
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w21" nrefs="s2_w29 s2_w30" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w29],#aligned-text-eng *[data-alpheios_align_word=s2_w30]" tbrefs="7-15" data-alpheios_tb_ref="7-15">&#964;&#8183;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w22" nrefs="s2_w27" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w27]" tbrefs="7-16" data-alpheios_tb_ref="7-16">&#948;&#8125;</span>
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w23" nrefs="s2_w29 s2_w30" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w29],#aligned-text-eng *[data-alpheios_align_word=s2_w30]" tbrefs="7-17" data-alpheios_tb_ref="7-17">&#7977;&#961;&#945;&#954;&#955;&#949;&#8150;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w24" nrefs="s2_w28" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w28]" tbrefs="7-18" data-alpheios_tb_ref="7-18">&#960;&#961;&#959;&#963;&#951;&#973;&#967;&#949;&#952;&#8125;</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w26" nrefs="s2_w32 s2_w34" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w32],s2_w34" tbrefs="7-20" data-alpheios_tb_ref="7-20">&#8003;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w27" nrefs="s2_w33" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w33]" tbrefs="7-21" data-alpheios_tb_ref="7-21">&#956;&#972;&#957;&#959;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w28" nrefs="s2_w36" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w36]" tbrefs="7-22" data-alpheios_tb_ref="7-22">&#960;&#940;&#957;&#964;&#969;&#957;</span>
                            
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w29" nrefs="s2_w35 s2_w37 s2_w38" tbrefs="7-23">&#952;&#949;&#8182;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w30" nrefs="s2_w40" tbrefs="7-24">&#7936;&#955;&#951;&#952;&#8182;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w31" nrefs="s2_w39 s2_w41" tbrefs="7-25">&#960;&#961;&#959;&#963;&#949;&#954;&#973;&#957;&#949;&#953;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w32" nrefs="s2_w42" tbrefs="7-26">&#964;&#949;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w33" nrefs="s2_w43" tbrefs="7-27">&#954;&#7936;&#964;&#943;&#956;&#945;</span>.
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w29" nrefs="s2_w35 s2_w37 s2_w38" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w35],#aligned-text-eng *[data-alpheios_align_word=s2_w37],#aligned-text-eng *[data-alpheios_align_word=s2_w38]" tbrefs="7-23" data-alpheios_tb_ref="7-23">&#952;&#949;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w30" nrefs="s2_w40" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w40]" tbrefs="7-24" data-alpheios_tb_ref="7-24">&#7936;&#955;&#951;&#952;&#8182;&#962;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w31" nrefs="s2_w39 s2_w41" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w39],#aligned-text-eng *[data-alpheios_align_word=s2_w41]" tbrefs="7-25" data-alpheios_tb_ref="7-25">&#960;&#961;&#959;&#963;&#949;&#954;&#973;&#957;&#949;&#953;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w32" nrefs="s2_w42" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w42]" tbrefs="7-26" data-alpheios_tb_ref="7-26">&#964;&#949;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w33" nrefs="s2_w43" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w43]" tbrefs="7-27" data-alpheios_tb_ref="7-27">&#954;&#7936;&#964;&#943;&#956;&#945;</span>.
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w35" nrefs="s2_w46" tbrefs="8-1">&#8001;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w36" nrefs="s2_w47" tbrefs="8-2">&#952;&#949;&#8056;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w37a" nrefs="s2_w45" tbrefs="8-3">&#948;&#8125;</span>
-                              <span class="alpheios-aligned-word" id="s2_w37b" nrefs="s2_w49 s2_w50" tbrefs="8-4">&#7952;&#960;&#953;&#963;&#964;&#8048;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w38" nrefs="s2_w52" tbrefs="8-5">&#949;&#7990;&#960;&#949;</span> &#8220;<span class="alpheios-aligned-word" id="s2_w40" nrefs="s2_w56" tbrefs="8-7">&#964;&#8182;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w41" nrefs="s2_w57" tbrefs="8-8">&#964;&#961;&#959;&#967;&#8182;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w42" nrefs="s2_w55" tbrefs="8-9">&#7941;&#960;&#964;&#959;&#965;</span>
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w35" nrefs="s2_w46" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w46]" tbrefs="8-1" data-alpheios_tb_ref="8-1">&#8001;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w36" nrefs="s2_w47" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w47]" tbrefs="8-2" data-alpheios_tb_ref="8-2">&#952;&#949;&#8056;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w37a" nrefs="s2_w45" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w45]" tbrefs="8-3" data-alpheios_tb_ref="8-3">&#948;&#8125;</span>
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w37b" nrefs="s2_w49 s2_w50" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w49],#aligned-text-eng *[data-alpheios_align_word=s2_w50]" tbrefs="8-4" data-alpheios_tb_ref="8-4">&#7952;&#960;&#953;&#963;&#964;&#8048;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w38" nrefs="s2_w52" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w52]" tbrefs="8-5" data-alpheios_tb_ref="8-5">&#949;&#7990;&#960;&#949;</span> &#8220;<span class="alpheios-aligned-word" data-alpheios_align_word="s2_w40" nrefs="s2_w56" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w56]" tbrefs="8-7" data-alpheios_tb_ref="8-7">&#964;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w41" nrefs="s2_w57" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w57]" tbrefs="8-8" data-alpheios_tb_ref="8-8">&#964;&#961;&#959;&#967;&#8182;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w42" nrefs="s2_w55" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w55]" tbrefs="8-9" data-alpheios_tb_ref="8-9">&#7941;&#960;&#964;&#959;&#965;</span>
                            
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w43" nrefs="s2_w58" tbrefs="8-10">&#954;&#945;&#8054;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w44" nrefs="s2_w60" tbrefs="8-11">&#964;&#959;&#8058;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w45" nrefs="s2_w61" tbrefs="8-12">&#946;&#972;&#945;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w46" nrefs="s2_w59" tbrefs="8-13">&#954;&#941;&#957;&#964;&#961;&#953;&#950;&#949;</span>. <span class="alpheios-aligned-word" id="s2_w48" nrefs="s2_w66" tbrefs="9-1">&#964;&#959;&#8150;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w49" nrefs="s2_w65 s2_w67" tbrefs="9-2">&#952;&#949;&#959;&#8150;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w50" nrefs="s2_w63" tbrefs="9-3">&#948;&#8125;</span>
-                              <span class="alpheios-aligned-word" id="s2_w51" nrefs="s2_w64" tbrefs="9-4">&#949;&#8020;&#967;&#959;&#965;</span>
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w43" nrefs="s2_w58" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w58]" tbrefs="8-10" data-alpheios_tb_ref="8-10">&#954;&#945;&#8054;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w44" nrefs="s2_w60" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w60]" tbrefs="8-11" data-alpheios_tb_ref="8-11">&#964;&#959;&#8058;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w45" nrefs="s2_w61" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w61]" tbrefs="8-12" data-alpheios_tb_ref="8-12">&#946;&#972;&#945;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w46" nrefs="s2_w59" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w59]" tbrefs="8-13" data-alpheios_tb_ref="8-13">&#954;&#941;&#957;&#964;&#961;&#953;&#950;&#949;</span>. <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w48" nrefs="s2_w66" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w66]" tbrefs="9-1" data-alpheios_tb_ref="9-1">&#964;&#959;&#8150;&#962;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w49" nrefs="s2_w65 s2_w67" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w65],#aligned-text-eng *[data-alpheios_align_word=s2_w67]" tbrefs="9-2" data-alpheios_tb_ref="9-2">&#952;&#949;&#959;&#8150;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w50" nrefs="s2_w63" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w63]" tbrefs="9-3" data-alpheios_tb_ref="9-3">&#948;&#8125;</span>
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w51" nrefs="s2_w64" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w64]" tbrefs="9-4" data-alpheios_tb_ref="9-4">&#949;&#8020;&#967;&#959;&#965;</span>
                            
          </div>
                         
          <div class="l">
-                              <span class="alpheios-aligned-word" id="s2_w52" nrefs="s2_w68" tbrefs="9-5">&#8005;&#964;&#945;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w53" nrefs="s2_w73" tbrefs="9-6">&#964;&#953;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w54" nrefs="s2_w69 s2_w71 s2_w72" tbrefs="9-7">&#960;&#959;&#953;&#8135;&#962;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w55" nrefs="s2_w70" tbrefs="9-8">&#954;&#945;&#8016;&#964;&#959;&#962;</span>, <span class="alpheios-aligned-word" id="s2_w57" nrefs="s2_w75" tbrefs="9-10">&#7970;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w58" nrefs="s2_w79 s2_w80" tbrefs="9-11">&#956;&#940;&#964;&#951;&#957;</span> 
-                              <span class="alpheios-aligned-word" id="s2_w59" nrefs="s2_w76 s2_w77 s2_w78" tbrefs="9-12">&#949;&#8020;&#958;&#8131;</span>.&#8221;
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w52" nrefs="s2_w68" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w68]" tbrefs="9-5" data-alpheios_tb_ref="9-5">&#8005;&#964;&#945;&#957;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w53" nrefs="s2_w73" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w73]" tbrefs="9-6" data-alpheios_tb_ref="9-6">&#964;&#953;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w54" nrefs="s2_w69 s2_w71 s2_w72" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w69],#aligned-text-eng *[data-alpheios_align_word=s2_w71],#aligned-text-eng *[data-alpheios_align_word=s2_w72]" tbrefs="9-7" data-alpheios_tb_ref="9-7">&#960;&#959;&#953;&#8135;&#962;</span> 
+                              <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w55" nrefs="s2_w70" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w70]" tbrefs="9-8" data-alpheios_tb_ref="9-8">&#954;&#945;&#8016;&#964;&#959;&#962;</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w57" nrefs="s2_w75" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w75]" tbrefs="9-10" data-alpheios_tb_ref="9-10">&#7970;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w58" nrefs="s2_w79 s2_w80" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w79],#aligned-text-eng *[data-alpheios_align_word=s2_w80]" tbrefs="9-11" data-alpheios_tb_ref="9-11">&#956;&#940;&#964;&#951;&#957;</span> 
+            <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w59" nrefs="s2_w76 s2_w77 s2_w78" data-alpheios_align_ref="#aligned-text-eng *[data-alpheios_align_word=s2_w76],#aligned-text-eng *[data-alpheios_align_word=s2_w77],#aligned-text-eng *[data-alpheios_align_word=s2_w78]" tbrefs="9-12" data-alpheios_tb_ref="9-12">&#949;&#8020;&#958;&#8131;</span>.&#8221;
          </div>
-                     
-         <div class="stdfooter alpheios-ignore" id="citation">
+      </div>
+         <div class="aligned-translation" id="aligned-text-eng">
+            <div class="scrollable">
+            <h2 class="institution"></h2>
+            <h2 class="department"></h2>
+            
+            
+            <p>
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w1" nrefs="s2_w1" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w1]">A</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w2" nrefs="s2_w1" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w1]">cattle-driver</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w3" nrefs="s2_w3" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w3]">was</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w4" nrefs="s2_w3" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w3]">bringing</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w5" nrefs="s2_w2" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w2]">a</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w6" nrefs="s2_w2" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w2]">cart</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w7" nrefs="s2_w4" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w4]">from</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w8" nrefs="s2_w5" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w5]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w9" nrefs="s2_w5" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w5]">village</span>. <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w11" nrefs="s2_w8" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w8]">But</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w12" nrefs="s2_w7 s2_w9" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w7],#aligned-text-grc *[data-alpheios_align_word=s2_w9]">when</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w13" nrefs="s2_w7 s2_w9" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w7],#aligned-text-grc *[data-alpheios_align_word=s2_w9]">it</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w14" nrefs="s2_w7 s2_w9" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w7],#aligned-text-grc *[data-alpheios_align_word=s2_w9]">fell</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w15" nrefs="s2_w10" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w10]">into</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w16" nrefs="s2_w11" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w11]">a</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w17" nrefs="s2_w12" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w12]">cavernous</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w18" nrefs="s2_w11" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w11]">ravine</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w20" nrefs="s2_w15" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w15]">help</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w21" nrefs="s2_w14" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w14]">was</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w22" nrefs="s2_w14" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w14]">needed</span>; <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w24" nrefs="s2_w17" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w17]">he</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w25" nrefs="s2_w19" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w19]">stood</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w26" nrefs="s2_w18" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w18]">idle</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w27" nrefs="s2_w22" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w22]">and</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w28" nrefs="s2_w24" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w24]">prayed</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w29" nrefs="s2_w21 s2_w23" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w21],#aligned-text-grc *[data-alpheios_align_word=s2_w23]">to</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w30" nrefs="s2_w21 s2_w23" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w21],#aligned-text-grc *[data-alpheios_align_word=s2_w23]">Heracles</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w32" nrefs="s2_w26" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w26]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w33" nrefs="s2_w27" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w27]">only</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w34" nrefs="s2_w26" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w26]">one</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w35" nrefs="s2_w29" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w29]">of</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w36" nrefs="s2_w28" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w28]">all</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w37" nrefs="s2_w29" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w29]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w38" nrefs="s2_w29" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w29]">gods</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w39" nrefs="s2_w31" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w31]">he</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w40" nrefs="s2_w30" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w30]">really</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w41" nrefs="s2_w31" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w31]">worshiped</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w42" nrefs="s2_w32" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w32]">and</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w43" nrefs="s2_w33" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w33]">honored</span>. <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w45" nrefs="s2_w37a" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w37]a">But</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w46" nrefs="s2_w35" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w35]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w47" nrefs="s2_w36" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w36]">god</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w49" nrefs="s2_w37b" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w37]b">standing</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w50" nrefs="s2_w37b" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w37b]">nearby</span>, <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w52" nrefs="s2_w38" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w38]">said</span>, "<span class="alpheios-aligned-word" data-alpheios_align_word="s2_w55" nrefs="s2_w42" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w42]">Grab</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w56" nrefs="s2_w40" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w40]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w57" nrefs="s2_w41" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w41]">wheels</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w58" nrefs="s2_w43" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w43]">and</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w59" nrefs="s2_w46" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w46]">goad</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w60" nrefs="s2_w44" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w44]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w61" nrefs="s2_w45" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w45]">cattle</span>. <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w63" nrefs="s2_w50" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w50]">And</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w64" nrefs="s2_w51" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w51]">pray</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w65" nrefs="s2_w49" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w49]">to</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w66" nrefs="s2_w48" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w48]">the</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w67" nrefs="s2_w49" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w49]">gods</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w68" nrefs="s2_w52" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w52]">once</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w69" nrefs="s2_w54" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w54]">you</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w70" nrefs="s2_w55" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w55]">yourself</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w71" nrefs="s2_w54" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w54]">are</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w72" nrefs="s2_w54" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w54]">doing</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w73" nrefs="s2_w53" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w53]">something</span>; <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w75" nrefs="s2_w57" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w57]">or</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w76" nrefs="s2_w59" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w59]">you</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w77" nrefs="s2_w59" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w59]">will</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w78" nrefs="s2_w59" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w59]">pray</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w79" nrefs="s2_w58" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w58]">in</span> 
+               <span class="alpheios-aligned-word" data-alpheios_align_word="s2_w80" nrefs="s2_w58" data-alpheios_align_ref="#aligned-text-grc *[data-alpheios_align_word=s2_w58]">vain</span>."
+            </p>
+            </div>
+         </div>
+         <div class="footer">
+            <div class="stdfooter alpheios-ignore" id="citation">
             <hr></hr>
-            <div class="footer"></div>
-            <hr></hr>
-            <address> Babrius.
-               	
-               <div class="rights_info">
-                  <p class="cc_rights">
-                               
-                                 This work is licensed under a
-                                 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.
-                                 
-                             
-                  </p>
-               </div>
-               <!--
-	  Generated from toc using an XSLT version 1 stylesheet
-	  based on http://www.tei-c.org/Stylesheets/teic/tei.xsl
-	  processed using SAXON 6.5.5 from Michael Kay
-	  on 2010-02-12T14:22:50-05:00-->
-            </address>
-         </div>
-         <div class="alpheios-ignore"></div>
+            <address> Babrius.</address>
+            <div class="rights_info">
+               <p class="cc_rights">
+                 
+                  This work is licensed under a
+                  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License</a>.                  
+                  
+               </p>
+            </div>
+          </div>
+      </div>
       </div>
    </body>
 </html>

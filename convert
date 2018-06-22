@@ -1,4 +1,0 @@
-perl -i.bak -p -e 's/nrefs="(.*?)"/nrefs="\1" data-alpheios_align_ref="\1"/g'
-perl -i.bak -p -e 's/alpheios-aligned-word" id=/alpheios-aligned-word" data-alpheios_align_word=/g'
-perl -i.bak -p -e 's/tbrefs="(.*?)"/tbrefs="\1" data-alpheios_tb_ref="\1"/g' book1_card230.html
-
