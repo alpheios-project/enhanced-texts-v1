@@ -230,11 +230,11 @@ function activate_alpheios_v2()
 
 function toggle_translation() {
   let elem = $(".aligned-translation").get(0)
-  elem.classList.toggle('visible');
-  if (elem.classList.contains('visible')) {
-    $(this).html('Close Translation')
-  } else {
+  elem.classList.toggle('alpheios-alignment__disabled');
+  if (elem.classList.contains('alpheios-alignment__disabled')) {
     $(this).html('View Translation')
+  } else {
+    $(this).html('Close Translation')
   }
 
 }
