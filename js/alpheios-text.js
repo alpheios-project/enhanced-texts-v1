@@ -222,7 +222,10 @@ function disable_alpheios()
 
 function activate_alpheios_v2()
 {
-  new Alpheios.Embedded("#alpheios-main",document,{top:"30vh",left:"45vw"},{}).activate();
+  new Alpheios.Embedded({
+    clientId: "alpheios-enhanced-v1",
+    enabledSelector: ".alpheios-aligned-word",
+  }).activate();
   $("#alph-toolbar-v2").css("display","flex");
   $(".aligned-translation").get(0).classList.add('visible')
   $("#aligned-text-cbx").click(toggle_translation);
