@@ -5,7 +5,7 @@
   "author": "Bridget Almas",
   "private": true,
   "dependencies": {
-    "alpheios-components": "github:alpheios-project/components",
-    "alpheios-embedded": "github:alpheios-project/embed-lib"
+    "alpheios-components": "1.2.45",
+    "alpheios-embedded": "3.0.0-rc.2"
   }
 }
