@@ -1,0 +1,11 @@
+{
+  "name": "AlpheiosEnhancedTexts",
+  "version": "1.0.0",
+  "description": "Alpheios Enhanced Texts",
+  "author": "Bridget Almas",
+  "private": true,
+  "dependencies": {
+    "alpheios-components": "1.2.45",
+    "alpheios-embedded": "3.0.0-rc.2"
+  }
+}
