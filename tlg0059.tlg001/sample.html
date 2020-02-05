@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="la">
+   <head>
+      <title>Alpheios:Plato, Euthyphro (Sample)</title>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"></meta>
+      <meta name="alpheios-pedagogical-text" content="true"></meta>
+      <link href="../css/alpheios-text.css" rel="stylesheet" type="text/css"></link>
+      <link href="../css/alpheios-text-v2.css" rel="stylesheet" type="text/css"></link>
+      <link rel="shortcut icon" type="image/x-icon" href="https://alpheios.net/alpheios-texts/img/alpheios_16.png"></link>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alpheios-components@dev/dist/style/style-components.min.css"/>
+      <script type="text/javascript" src="https://alpheios.net/alpheios-texts/site_menus/js/jquery-1.2.6.min.js"></script>
+      <script type="text/javascript" src="../js/alpheios-text.js"></script><script type="text/javascript">
+                // document ready function
+                $(function(){
+                  const embedProps = {
+                    alpheiosEmbedJSURL: 'https://cdn.jsdelivr.net/npm/alpheios-embedded@dev/dist/alpheios-embedded.min.js',
+                    alpheiosComponentsJSURL: 'https://cdn.jsdelivr.net/npm/alpheios-components@dev/dist/alpheios-components.min.js',
+                    clientProps: {
+                      clientId:'alpheios-enhanced-texts-v1',
+                      authEnv: null,
+                      enableMouseMoveOverride: true,
+                      popupInitialPos: {
+                        left: '50px',
+                        top: '230px'
+                      },
+                      toolbarInitialPos: {
+                        top: '20px',
+                        right: '120px'
+                      },
+                      actionPanelInitialPos: {
+                        top: '120',
+                        right: '20'
+                      }
+                    }
+                  }
+                  import (embedProps.alpheiosEmbedJSURL).then(embedLib => {
+                    window.AlpheiosEmbed.importDependencies({
+                      mode: 'custom',
+                      libs: { components: embedProps.alpheiosComponentsJSURL }
+                    }).then(Embedded => {
+                      const embedded = new Embedded(embedProps.clientProps)
+                      embedded.activate()
+                    }).catch(e => {
+                      console.error(`Import of an embedded library dependencies failed: ${e}`)
+                    })
+                  }).catch(e => {
+                    console.error(`Import of an embedded library failed: ${e}`)
+                  })
+                  $("#alph-toolbar-v2").css("display","flex");
+                  $(".aligned-translation").get(0).classList.add('visible')
+                  $("#aligned-text-cbx").click(toggle_translation);
+                });
+      </script>
+      <style type="text/css">
+        .speaker { font-weight: 600; }
+      </style>
+   </head>
+   <body id="TOP">
+      <div class="alpheios-ignore">
+         <div id="alph-page-header">
+            <a class="alpheios-logo" href="https://alpheios.net" alt="Alpheios">
+               <img src="https://alpheios.net/alpheios-texts/img/alpheios.png"></img>
+            </a>
+         </div>
+         <br/>
+         <div id="header">
+            <div id="header_text">
+               <h1><span class="author">Plato, </span><span class="title">Euthyphro<span class="sectionid"> (Sample)</span></span></h1>
+            </div>
+         </div>
+         <div class="alpheios-ignore alpheios-next-prev">
+         </div>
+         <div id="alph-toolbar-v2">
+            <div id="aligned-text-cbx-container">
+               <input type="checkbox" id="aligned-text-cbx" checked="checked"/>
+               <label for="aligned-text-cbx">Translation</label>
+            </div>
+         </div>
+      </div>
+      <!--End Alpheios Header-->
+      <div class="wrapper alpheios-enabled">
+        <div class="edition lang_grc" data-lang="grc" lang="grc">
+            <p>
+                  <span class="speaker">Εὐθύφρων:</span> τί νεώτερον, ὦ Σώκρατες, γέγονεν, ὅτι σὺ τὰς ἐν Λυκείῳ καταλιπὼν διατριβὰς ἐνθάδε νῦν διατρίβεις περὶ τὴν τοῦ βασιλέως στοάν; οὐ γάρ που καὶ σοί γε δίκη τις οὖσα τυγχάνει πρὸς τὸν βασιλέα ὥσπερ ἐμοί.
+            </p>
+            <p>
+                <span class="speaker">Σωκράτης:</span> οὔτοι δὴ Ἀθηναῖοί γε, ὦ Εὐθύφρων, δίκην αὐτὴν καλοῦσιν ἀλλὰ γραφήν.
+            </p>
+            <p>
+                   <span class="speaker">Εὐθύφρων:</span> τί φῄς; γραφὴν σέ τις, ὡς ἔοικε, γέγραπται· οὐ γὰρ ἐκεῖνό γε καταγνώσομαι, ὡς σὺ ἕτερον.
+            </p>
+            <p>
+                <span class="speaker">Σωκράτης:</span> οὐ γὰρ οὖν.
+            </p>
+            <p>
+                <span class="speaker">Εὐθύφρων:</span> ἀλλὰ σὲ ἄλλος;
+            </p>
+            <p>
+                <span class="speaker">Σωκράτης:</span> πάνυ γε.
+            </p>
+            <p>
+                <span class="speaker">Εὐθύφρων:</span> τίς οὗτος;
+            </p>
+            <p>
+                <span class="speaker">Σωκράτης:</span> οὐδʼ αὐτὸς πάνυ τι γιγνώσκω, ὦ Εὐθύφρων, τὸν ἄνδρα, νέος γάρ τίς μοι φαίνεται καὶ ἀγνώς· ὀνομάζουσι μέντοι αὐτόν, ὡς ἐγᾦμαι, Μέλητον. ἔστι δὲ τῶν δήμων Πιτθεύς, εἴ τινα νῷ ἔχεις Πιτθέα Μέλητον οἷον τετανότριχα καὶ οὐ πάνυ εὐγένειον, ἐπίγρυπον δέ.
+            </p>
+        </div>
+        <div class="aligned-translation" id="aligned-text-eng" lang="zho">
+          <div class="scrollable">
+<p><span class="speaker">歐：</span> 蘇格拉地君！異哉君何以不在園場（註二）而來此公庭之廊下？（註三）度君必非有所控訴如 我所爲者也</p>
+<p><span class="speaker">蘇：</span> 歐雪佛洛君，吾事依雅典人之通稱，誠非控訴，乃被吿耳。</p>
+<p><span class="speaker">歐：</span> 嗟乎！吾固揣想必係他人控吿君，因吾不信君乃首控吿任何人也。</p>
+<p><span class="speaker">蘇：</span> 當然非吾控吿他人。</p>
+<p><span class="speaker">歐：</span> 然則必有人控君？</p>
+<p><span class="speaker">蘇：</span> 然。</p>
+<p><span class="speaker">歐：</span> 其人爲誰？</p>
+<p><span class="speaker">蘇：</span> 歐雪佛洛君其人吾初不甚悉，第知其爲一不甚知名之靑年。聞其名爲梅賴陀（Meletus）屬於壁獨（Pithoo）區；君知有壁獨區之梅賴陀者，或猶能憶其貌。渠有長髪，有微鬚，有如鉤之鼻。</p>
+          </div>
+        </div>
+      </div>
+   </body>
+</html>
